@@ -2586,6 +2586,7 @@ https://www.twitch.tv/aestheticturtleg
 https://www.twitch.tv/aether_bones
 https://www.twitch.tv/aetherlu1s
 https://www.twitch.tv/aethersojourn
+https://www.twitch.tv/aethertoxin
 https://www.twitch.tv/aetiuslebrave
 https://www.twitch.tv/aetsuyu
 https://www.twitch.tv/aeuphoricsloth
@@ -23821,6 +23822,7 @@ https://www.twitch.tv/davids_bol
 https://www.twitch.tv/davidsaes
 https://www.twitch.tv/davidsc_06
 https://www.twitch.tv/davidserranojl
+https://www.twitch.tv/davidsondtk
 https://www.twitch.tv/davidsopro0909
 https://www.twitch.tv/davidsoun
 https://www.twitch.tv/davidsp27
@@ -40254,6 +40256,7 @@ https://www.twitch.tv/gavero
 https://www.twitch.tv/gavi_rl
 https://www.twitch.tv/gavinfarm
 https://www.twitch.tv/gavobm
+https://www.twitch.tv/gavrilk1n
 https://www.twitch.tv/gavsor
 https://www.twitch.tv/gawdupnext
 https://www.twitch.tv/gayfurryuwu_
@@ -50508,6 +50511,7 @@ https://www.twitch.tv/jantorres_29
 https://www.twitch.tv/janula91
 https://www.twitch.tv/janurailp
 https://www.twitch.tv/janvier_2025
+https://www.twitch.tv/jany_ferreira
 https://www.twitch.tv/janysleon91
 https://www.twitch.tv/janzaro19
 https://www.twitch.tv/janzilyn
@@ -51498,6 +51502,7 @@ https://www.twitch.tv/jeschaparro
 https://www.twitch.tv/jesemr
 https://www.twitch.tv/jesh31
 https://www.twitch.tv/jeshawn4life
+https://www.twitch.tv/jesher27
 https://www.twitch.tv/jeshok96
 https://www.twitch.tv/jeshop
 https://www.twitch.tv/jesica4007
@@ -55405,6 +55410,7 @@ https://www.twitch.tv/kainey7
 https://www.twitch.tv/kainmartinez08
 https://www.twitch.tv/kainxtk1
 https://www.twitch.tv/kainyleboss
+https://www.twitch.tv/kainz22
 https://www.twitch.tv/kaiofrankl12
 https://www.twitch.tv/kaiogameplay7
 https://www.twitch.tv/kaioke3n
@@ -59004,6 +59010,7 @@ https://www.twitch.tv/kohtakuma
 https://www.twitch.tv/kohvein
 https://www.twitch.tv/koibe123
 https://www.twitch.tv/koiboss123
+https://www.twitch.tv/koichyt77
 https://www.twitch.tv/koiiinzell
 https://www.twitch.tv/koike_vt
 https://www.twitch.tv/koikoi0701
@@ -67497,6 +67504,7 @@ https://www.twitch.tv/luxan_gg
 https://www.twitch.tv/luxarcadia500
 https://www.twitch.tv/luxatek_
 https://www.twitch.tv/luxay_nikk
+https://www.twitch.tv/luxcheshire
 https://www.twitch.tv/luxckax
 https://www.twitch.tv/luxdecrocs
 https://www.twitch.tv/luxenfps
@@ -89770,6 +89778,7 @@ https://www.twitch.tv/qcemrof
 https://www.twitch.tv/qcjwim
 https://www.twitch.tv/qcmasteurx
 https://www.twitch.tv/qcmaxinesru0918
+https://www.twitch.tv/qcmrw667
 https://www.twitch.tv/qcpitcher
 https://www.twitch.tv/qcsmaz
 https://www.twitch.tv/qcstitch191
@@ -107940,6 +107949,7 @@ https://www.twitch.tv/teufelslama1267
 https://www.twitch.tv/teurgkei39
 https://www.twitch.tv/teutates777
 https://www.twitch.tv/teutelbier496
+https://www.twitch.tv/teuz2k
 https://www.twitch.tv/tev_mula
 https://www.twitch.tv/teve4televisio
 https://www.twitch.tv/tevenou
@@ -115862,6 +115872,7 @@ https://www.twitch.tv/veomer_
 https://www.twitch.tv/veonair
 https://www.twitch.tv/veotelevisi
 https://www.twitch.tv/vepex_zaur
+https://www.twitch.tv/vepz1608
 https://www.twitch.tv/vepz91
 https://www.twitch.tv/veqage
 https://www.twitch.tv/veqqah
@@ -120805,6 +120816,7 @@ https://www.twitch.tv/xmerco
 https://www.twitch.tv/xmetalslayerx
 https://www.twitch.tv/xmetebey
 https://www.twitch.tv/xmexmox
+https://www.twitch.tv/xmg_kingfake
 https://www.twitch.tv/xmie_panda
 https://www.twitch.tv/xmigmetalx
 https://www.twitch.tv/xmiguel167
@@ -122690,6 +122702,7 @@ https://www.twitch.tv/yedi_nova
 https://www.twitch.tv/yeejvaj45
 https://www.twitch.tv/yeekzin
 https://www.twitch.tv/yeeoomman0
+https://www.twitch.tv/yeetorbyeetn
 https://www.twitch.tv/yeeyennie
 https://www.twitch.tv/yeezy_alibaba
 https://www.twitch.tv/yeffry_senpai
@@ -123926,6 +123939,7 @@ https://www.twitch.tv/z0mbi3_0
 https://www.twitch.tv/z0ogat
 https://www.twitch.tv/z0qqh
 https://www.twitch.tv/z0r0ka
+https://www.twitch.tv/z0rdaak
 https://www.twitch.tv/z0rirox
 https://www.twitch.tv/z1mzim
 https://www.twitch.tv/z1nk1nator
