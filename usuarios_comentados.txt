@@ -12588,6 +12588,7 @@ https://www.twitch.tv/ca_ice
 https://www.twitch.tv/ca_lis_ta
 https://www.twitch.tv/ca_tetonne
 https://www.twitch.tv/ca_zr
+https://www.twitch.tv/caaazog
 https://www.twitch.tv/caacupecablevision
 https://www.twitch.tv/caana_14
 https://www.twitch.tv/caapex
@@ -35301,6 +35302,7 @@ https://www.twitch.tv/gunsandcookies
 https://www.twitch.tv/gunships32
 https://www.twitch.tv/gunter_gamer27
 https://www.twitch.tv/gunther_der_sigma
+https://www.twitch.tv/guntherthe_great
 https://www.twitch.tv/gunzgainer
 https://www.twitch.tv/gur1m_online
 https://www.twitch.tv/gurbiebdb
@@ -37930,6 +37932,7 @@ https://www.twitch.tv/hyrulewz
 https://www.twitch.tv/hyrum009
 https://www.twitch.tv/hytaso49
 https://www.twitch.tv/hytnooz
+https://www.twitch.tv/hyto_gab1
 https://www.twitch.tv/hyuga784
 https://www.twitch.tv/hyugak009
 https://www.twitch.tv/hyuk4t
@@ -50471,6 +50474,7 @@ https://www.twitch.tv/lalumierdanslestenebre
 https://www.twitch.tv/lalupitaelmonte
 https://www.twitch.tv/lalyqueen
 https://www.twitch.tv/lam974_
+https://www.twitch.tv/lama_eis
 https://www.twitch.tv/lama_optimal
 https://www.twitch.tv/lamadu42
 https://www.twitch.tv/lamakameha
@@ -67243,6 +67247,7 @@ https://www.twitch.tv/noemy_kookie
 https://www.twitch.tv/noentix
 https://www.twitch.tv/noepio67
 https://www.twitch.tv/noeraam
+https://www.twitch.tv/noerun
 https://www.twitch.tv/noesaviouur
 https://www.twitch.tv/noeskanedy
 https://www.twitch.tv/noeww1
@@ -79635,6 +79640,7 @@ https://www.twitch.tv/saitapunch
 https://www.twitch.tv/saiten__
 https://www.twitch.tv/saitisgames
 https://www.twitch.tv/saitokunsun
+https://www.twitch.tv/saitou_minami
 https://www.twitch.tv/saitoxa
 https://www.twitch.tv/saitrixgaming
 https://www.twitch.tv/saityanh
@@ -80915,6 +80921,7 @@ https://www.twitch.tv/scherze1710
 https://www.twitch.tv/scherzo966
 https://www.twitch.tv/schibisama
 https://www.twitch.tv/schicksalweil
+https://www.twitch.tv/schiimii
 https://www.twitch.tv/schildps14
 https://www.twitch.tv/schillingmusik
 https://www.twitch.tv/schimpanda112
