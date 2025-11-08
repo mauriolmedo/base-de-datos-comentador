@@ -3545,6 +3545,7 @@ https://www.twitch.tv/alexcomoconflex
 https://www.twitch.tv/alexcr2002
 https://www.twitch.tv/alexcultu
 https://www.twitch.tv/alexcuti11
+https://www.twitch.tv/alexczar25
 https://www.twitch.tv/alexdaimaoh
 https://www.twitch.tv/alexdani1904
 https://www.twitch.tv/alexdavila76
@@ -21830,6 +21831,7 @@ https://www.twitch.tv/dj_stereo_mix
 https://www.twitch.tv/dj_stunter
 https://www.twitch.tv/dj_tasse
 https://www.twitch.tv/dj_ti_max
+https://www.twitch.tv/dj_toulouse
 https://www.twitch.tv/dj_vamlyktan
 https://www.twitch.tv/dj_vegeta_vnb
 https://www.twitch.tv/dj_won
@@ -26898,6 +26900,7 @@ https://www.twitch.tv/emrenc
 https://www.twitch.tv/emric_win
 https://www.twitch.tv/emrx__
 https://www.twitch.tv/ems_erdb33r
+https://www.twitch.tv/ems_lolo
 https://www.twitch.tv/emsgrow
 https://www.twitch.tv/emsousfrofro
 https://www.twitch.tv/emsurtwitch
@@ -61703,6 +61706,7 @@ https://www.twitch.tv/mizu2bz
 https://www.twitch.tv/mizu667
 https://www.twitch.tv/mizubp
 https://www.twitch.tv/mizuchia
+https://www.twitch.tv/mizufn1
 https://www.twitch.tv/mizuhanada_miku
 https://www.twitch.tv/mizukamifr
 https://www.twitch.tv/mizuki_runa
@@ -63704,6 +63708,7 @@ https://www.twitch.tv/mtoastqc
 https://www.twitch.tv/mtpandita_yt
 https://www.twitch.tv/mtpboxinglive
 https://www.twitch.tv/mtrandrick7u7
+https://www.twitch.tv/mtrn_7
 https://www.twitch.tv/mtrokass
 https://www.twitch.tv/mtrolimpio
 https://www.twitch.tv/mtromj
@@ -88773,6 +88778,7 @@ https://www.twitch.tv/taonku1222
 https://www.twitch.tv/taosky_
 https://www.twitch.tv/tapacr_
 https://www.twitch.tv/tapata43
+https://www.twitch.tv/tapcykreets
 https://www.twitch.tv/tapepython
 https://www.twitch.tv/taperescudero
 https://www.twitch.tv/tapezii
