@@ -7856,6 +7856,7 @@ https://www.twitch.tv/azulflores_22
 https://www.twitch.tv/azuliferia
 https://www.twitch.tv/azulmarinoh
 https://www.twitch.tv/azulmo93
+https://www.twitch.tv/azulv32
 https://www.twitch.tv/azulys_
 https://www.twitch.tv/azumagl
 https://www.twitch.tv/azumirus
@@ -33067,6 +33068,7 @@ https://www.twitch.tv/gato_kim
 https://www.twitch.tv/gato_loco1203
 https://www.twitch.tv/gato_malo507
 https://www.twitch.tv/gato_pimamru
+https://www.twitch.tv/gato_rasu
 https://www.twitch.tv/gato_vzla
 https://www.twitch.tv/gatoalejo
 https://www.twitch.tv/gatoalexander_
@@ -34847,6 +34849,7 @@ https://www.twitch.tv/grch_12s
 https://www.twitch.tv/gre3nd3vil
 https://www.twitch.tv/greaper1202
 https://www.twitch.tv/greasefatrat
+https://www.twitch.tv/greasemonkey039
 https://www.twitch.tv/greasy_rpg
 https://www.twitch.tv/greatbadboy_
 https://www.twitch.tv/greatkiryukazuma
@@ -35957,6 +35960,7 @@ https://www.twitch.tv/hamza___________
 https://www.twitch.tv/hamzaslhs
 https://www.twitch.tv/hana_hns
 https://www.twitch.tv/hana_momiji
+https://www.twitch.tv/hanaaa_0813
 https://www.twitch.tv/hanachan_157
 https://www.twitch.tv/hanafujiyuma
 https://www.twitch.tv/hanagoromomuyulg
@@ -50328,6 +50332,7 @@ https://www.twitch.tv/la_squad_roblox
 https://www.twitch.tv/la_stitcheuse
 https://www.twitch.tv/la_syl
 https://www.twitch.tv/la_taberna_del_ogro
+https://www.twitch.tv/la_taverne_connectee
 https://www.twitch.tv/la_taverne_de_nico
 https://www.twitch.tv/la_taverne_de_night117
 https://www.twitch.tv/la_team_zzte
@@ -55727,6 +55732,7 @@ https://www.twitch.tv/lunaaalejo_
 https://www.twitch.tv/lunaar01
 https://www.twitch.tv/lunaawtf
 https://www.twitch.tv/lunabot310
+https://www.twitch.tv/lunachat
 https://www.twitch.tv/lunachikita
 https://www.twitch.tv/lunafairytales
 https://www.twitch.tv/lunafl4re
@@ -61845,6 +61851,7 @@ https://www.twitch.tv/mitosttv
 https://www.twitch.tv/mitoxgg
 https://www.twitch.tv/mitroxzfr
 https://www.twitch.tv/mitrus90es
+https://www.twitch.tv/mitschmu
 https://www.twitch.tv/mitsu_8888
 https://www.twitch.tv/mitsuba_chi38
 https://www.twitch.tv/mitsubaxxx_ttv
