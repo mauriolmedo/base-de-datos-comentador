@@ -2827,6 +2827,7 @@ https://www.twitch.tv/aktuellenewstv
 https://www.twitch.tv/aku8521
 https://www.twitch.tv/akubahn
 https://www.twitch.tv/akudai_
+https://www.twitch.tv/akufanion
 https://www.twitch.tv/akui6
 https://www.twitch.tv/akui_dl
 https://www.twitch.tv/akuma388
@@ -11877,6 +11878,7 @@ https://www.twitch.tv/bucuk_buba
 https://www.twitch.tv/bud_news_baguette
 https://www.twitch.tv/budapestwest
 https://www.twitch.tv/budde_
+https://www.twitch.tv/buddel_eskaliert
 https://www.twitch.tv/buddetv
 https://www.twitch.tv/buddha_stylez
 https://www.twitch.tv/buddialukart
@@ -38706,6 +38708,7 @@ https://www.twitch.tv/imlausie
 https://www.twitch.tv/imlegendfire21
 https://www.twitch.tv/imlennin
 https://www.twitch.tv/imlikeoff
+https://www.twitch.tv/imlogn_
 https://www.twitch.tv/imlong28
 https://www.twitch.tv/imlouve
 https://www.twitch.tv/imluisanag
@@ -60550,6 +60553,7 @@ https://www.twitch.tv/minisamu004
 https://www.twitch.tv/miniscus0
 https://www.twitch.tv/minisjople
 https://www.twitch.tv/miniskillergfcc
+https://www.twitch.tv/ministro_fps
 https://www.twitch.tv/minitikotwitch
 https://www.twitch.tv/minitxo11
 https://www.twitch.tv/miniwards79
@@ -63400,6 +63404,7 @@ https://www.twitch.tv/mxartex
 https://www.twitch.tv/mxboy390
 https://www.twitch.tv/mxchelle_frhmlt
 https://www.twitch.tv/mxchiiiiiiiiiii
+https://www.twitch.tv/mxd44zz
 https://www.twitch.tv/mxd_06
 https://www.twitch.tv/mxdxsa
 https://www.twitch.tv/mxetaoficial
@@ -101737,6 +101742,7 @@ https://www.twitch.tv/yuzu_chi_twitch
 https://www.twitch.tv/yuzu_mayu
 https://www.twitch.tv/yuzufei
 https://www.twitch.tv/yuzuko5090
+https://www.twitch.tv/yuzuriha_ruko
 https://www.twitch.tv/yvad_ttv
 https://www.twitch.tv/yvan_dubois1
 https://www.twitch.tv/yvarson01
