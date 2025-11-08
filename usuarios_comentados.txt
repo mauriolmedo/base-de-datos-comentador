@@ -1092,6 +1092,7 @@ https://www.twitch.tv/96sesh
 https://www.twitch.tv/972chriss
 https://www.twitch.tv/974nats
 https://www.twitch.tv/981live
+https://www.twitch.tv/983kuma
 https://www.twitch.tv/98divergente98
 https://www.twitch.tv/98pumba
 https://www.twitch.tv/999_joel1
@@ -8920,6 +8921,7 @@ https://www.twitch.tv/be4rdo
 https://www.twitch.tv/be4stv2
 https://www.twitch.tv/be_core
 https://www.twitch.tv/be_oh_why_not
+https://www.twitch.tv/be_rax
 https://www.twitch.tv/be_together
 https://www.twitch.tv/beachgroovesradio
 https://www.twitch.tv/beadestroyz
@@ -10006,6 +10008,7 @@ https://www.twitch.tv/birbso
 https://www.twitch.tv/bird_ouu
 https://www.twitch.tv/birdetrip
 https://www.twitch.tv/birdeyeberlin
+https://www.twitch.tv/birdkid_bvb
 https://www.twitch.tv/birdmanstunnas
 https://www.twitch.tv/birdsgaming3108
 https://www.twitch.tv/birdy_bts
@@ -60287,6 +60290,7 @@ https://www.twitch.tv/michagamer00
 https://www.twitch.tv/michaqueta
 https://www.twitch.tv/michav3
 https://www.twitch.tv/michayl
+https://www.twitch.tv/miche330
 https://www.twitch.tv/miche_miche7
 https://www.twitch.tv/michel_fsqc
 https://www.twitch.tv/micheldarvel
@@ -66711,6 +66715,7 @@ https://www.twitch.tv/niku_neki
 https://www.twitch.tv/nikumo3
 https://www.twitch.tv/nikusimi2943
 https://www.twitch.tv/nikuutoshi
+https://www.twitch.tv/nikuzamurai
 https://www.twitch.tv/nikuzure_
 https://www.twitch.tv/nikx97
 https://www.twitch.tv/nikzockt
@@ -71929,6 +71934,7 @@ https://www.twitch.tv/petelancaster
 https://www.twitch.tv/petelzo
 https://www.twitch.tv/peter55382
 https://www.twitch.tv/peter94cfs
+https://www.twitch.tv/peter__schmitt__
 https://www.twitch.tv/peter_harald_b
 https://www.twitch.tv/peter_pansen_official
 https://www.twitch.tv/peter_tv112
@@ -76433,6 +76439,7 @@ https://www.twitch.tv/reinatakahara_vt
 https://www.twitch.tv/reinbor071
 https://www.twitch.tv/reincarnation56000
 https://www.twitch.tv/reincarneited
+https://www.twitch.tv/reinemorue
 https://www.twitch.tv/reiner9winkla
 https://www.twitch.tv/reiner_s
 https://www.twitch.tv/reinerblock43
@@ -76740,6 +76747,7 @@ https://www.twitch.tv/reto8819
 https://www.twitch.tv/retoamstrad
 https://www.twitch.tv/retornodelmono
 https://www.twitch.tv/retors7
+https://www.twitch.tv/retoxfnr3
 https://www.twitch.tv/retr0b0ter
 https://www.twitch.tv/retr0ggf
 https://www.twitch.tv/retr0xm
