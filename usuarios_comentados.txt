@@ -6697,6 +6697,7 @@ https://www.twitch.tv/asaeru_86
 https://www.twitch.tv/asaesport
 https://www.twitch.tv/asafrance
 https://www.twitch.tv/asafrnb
+https://www.twitch.tv/asahihasu
 https://www.twitch.tv/asahijonny
 https://www.twitch.tv/asai_501xx
 https://www.twitch.tv/asaiyotaro
@@ -9461,6 +9462,7 @@ https://www.twitch.tv/bennex
 https://www.twitch.tv/benni20167
 https://www.twitch.tv/benni21_
 https://www.twitch.tv/benni_925
+https://www.twitch.tv/benni_goty
 https://www.twitch.tv/benni_wgr
 https://www.twitch.tv/benniboy_thebest
 https://www.twitch.tv/bennichompgaming
@@ -47202,6 +47204,7 @@ https://www.twitch.tv/kazujin_
 https://www.twitch.tv/kazuka361
 https://www.twitch.tv/kazukazu0416
 https://www.twitch.tv/kazuky_gamer
+https://www.twitch.tv/kazuma0517
 https://www.twitch.tv/kazuma2980
 https://www.twitch.tv/kazumaarcend
 https://www.twitch.tv/kazumaru0
@@ -79614,6 +79617,7 @@ https://www.twitch.tv/roro160395
 https://www.twitch.tv/roro34_
 https://www.twitch.tv/roro93v
 https://www.twitch.tv/roro_8_
+https://www.twitch.tv/roro_cps
 https://www.twitch.tv/roro_game_
 https://www.twitch.tv/rorocab38
 https://www.twitch.tv/rorodu6611
@@ -105525,6 +105529,7 @@ https://www.twitch.tv/zezeid
 https://www.twitch.tv/zezelat
 https://www.twitch.tv/zezexx_
 https://www.twitch.tv/zezinho_barbedo
+https://www.twitch.tv/zezoca_12345
 https://www.twitch.tv/zezzdecitron
 https://www.twitch.tv/zezzera
 https://www.twitch.tv/zf_toron
