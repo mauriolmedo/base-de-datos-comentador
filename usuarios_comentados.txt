@@ -473,6 +473,7 @@ https://www.twitch.tv/211ikevin
 https://www.twitch.tv/212120y
 https://www.twitch.tv/212_team
 https://www.twitch.tv/212physicx
+https://www.twitch.tv/212ryu
 https://www.twitch.tv/21_batbeat
 https://www.twitch.tv/21_lgandalf
 https://www.twitch.tv/21_shox
@@ -17647,6 +17648,7 @@ https://www.twitch.tv/cskn9
 https://www.twitch.tv/cslixgaming
 https://www.twitch.tv/csljfrgx
 https://www.twitch.tv/csm1227002
+https://www.twitch.tv/csm_choco_mai
 https://www.twitch.tv/csm_cuervo
 https://www.twitch.tv/csmedruid
 https://www.twitch.tv/csmhpiano
@@ -23184,6 +23186,7 @@ https://www.twitch.tv/dr_frogtv
 https://www.twitch.tv/dr_gonzo_live
 https://www.twitch.tv/dr_h0nk
 https://www.twitch.tv/dr_hamudi
+https://www.twitch.tv/dr_iosefka
 https://www.twitch.tv/dr_j_a_y
 https://www.twitch.tv/dr_jaystb
 https://www.twitch.tv/dr_kenzie
@@ -31721,6 +31724,7 @@ https://www.twitch.tv/frc_jamon
 https://www.twitch.tv/frclash
 https://www.twitch.tv/fre3ze98
 https://www.twitch.tv/fre4aky
+https://www.twitch.tv/freaakaii
 https://www.twitch.tv/freak0220
 https://www.twitch.tv/freak1412
 https://www.twitch.tv/freak_zilli
@@ -59793,6 +59797,7 @@ https://www.twitch.tv/matysaitama86
 https://www.twitch.tv/matysan14
 https://www.twitch.tv/matze214
 https://www.twitch.tv/matze89_
+https://www.twitch.tv/matze_peace1
 https://www.twitch.tv/matzesw
 https://www.twitch.tv/matzilla91
 https://www.twitch.tv/matzukitzo
@@ -78759,6 +78764,7 @@ https://www.twitch.tv/riley1467
 https://www.twitch.tv/riley1stone
 https://www.twitch.tv/rileyjet09
 https://www.twitch.tv/rileyworm30
+https://www.twitch.tv/rillettesacademie
 https://www.twitch.tv/rilu_k
 https://www.twitch.tv/rima6z
 https://www.twitch.tv/rimada_
@@ -93181,6 +93187,7 @@ https://www.twitch.tv/thrudon
 https://www.twitch.tv/ths_pictures
 https://www.twitch.tv/thug67life
 https://www.twitch.tv/thuioop456
+https://www.twitch.tv/thukishiro_
 https://www.twitch.tv/thunbell
 https://www.twitch.tv/thund3r_999
 https://www.twitch.tv/thund68
@@ -100539,6 +100546,7 @@ https://www.twitch.tv/wordplay_twitch
 https://www.twitch.tv/worick_a
 https://www.twitch.tv/workednut28
 https://www.twitch.tv/workingafterhours
+https://www.twitch.tv/workwolves
 https://www.twitch.tv/workzero
 https://www.twitch.tv/world_of_bobby
 https://www.twitch.tv/world_requiem
