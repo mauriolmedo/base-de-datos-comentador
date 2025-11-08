@@ -16819,6 +16819,7 @@ https://www.twitch.tv/cptbarkot
 https://www.twitch.tv/cptbill
 https://www.twitch.tv/cptblaubeere
 https://www.twitch.tv/cptboutch
+https://www.twitch.tv/cptbreuz
 https://www.twitch.tv/cptdoud
 https://www.twitch.tv/cptfriendzone
 https://www.twitch.tv/cptfustercluck
@@ -29294,6 +29295,7 @@ https://www.twitch.tv/farruko1khriz
 https://www.twitch.tv/farscape_deutsch
 https://www.twitch.tv/farscape_francais
 https://www.twitch.tv/farthus89
+https://www.twitch.tv/fartigosmc
 https://www.twitch.tv/fartnorthlegend
 https://www.twitch.tv/fartsmellaah
 https://www.twitch.tv/faruko_ranbarudi
@@ -53637,6 +53639,7 @@ https://www.twitch.tv/lilousurtwitch
 https://www.twitch.tv/lilow_stream
 https://www.twitch.tv/lilowme
 https://www.twitch.tv/lilp4prince
+https://www.twitch.tv/lilpanlive
 https://www.twitch.tv/lilpeto01
 https://www.twitch.tv/lilpusho
 https://www.twitch.tv/lilpztv
@@ -56841,6 +56844,7 @@ https://www.twitch.tv/maaiyko
 https://www.twitch.tv/maajmaaj3000
 https://www.twitch.tv/maajoox
 https://www.twitch.tv/maakbel
+https://www.twitch.tv/maaks34
 https://www.twitch.tv/maakunzx6r
 https://www.twitch.tv/maalavon
 https://www.twitch.tv/maalekvlt
@@ -64063,6 +64067,7 @@ https://www.twitch.tv/mrleistung
 https://www.twitch.tv/mrlembertton
 https://www.twitch.tv/mrlerobot8
 https://www.twitch.tv/mrlevpompe16
+https://www.twitch.tv/mrliammccrea
 https://www.twitch.tv/mrlich76
 https://www.twitch.tv/mrlinkec
 https://www.twitch.tv/mrlmartinez60
@@ -69254,6 +69259,7 @@ https://www.twitch.tv/o_shin_chan
 https://www.twitch.tv/o_sss6
 https://www.twitch.tv/o_true_o
 https://www.twitch.tv/o_tubasa_o
+https://www.twitch.tv/o_vasu_o
 https://www.twitch.tv/o_vinicius__
 https://www.twitch.tv/o_x_lehm_x_o
 https://www.twitch.tv/o_yevrah_0
@@ -76230,6 +76236,7 @@ https://www.twitch.tv/rainbow_nightt
 https://www.twitch.tv/rainbow_soul040200
 https://www.twitch.tv/rainbowless
 https://www.twitch.tv/rainbowllama06
+https://www.twitch.tv/rainchannel0826
 https://www.twitch.tv/rainekoz
 https://www.twitch.tv/rainergoennjamin
 https://www.twitch.tv/rainerholst
@@ -82578,6 +82585,7 @@ https://www.twitch.tv/sedekgamer17
 https://www.twitch.tv/sedky97
 https://www.twitch.tv/sedorikku67
 https://www.twitch.tv/sedrav
+https://www.twitch.tv/sedrowow
 https://www.twitch.tv/see_na
 https://www.twitch.tv/seeannemon
 https://www.twitch.tv/seegurke18_hd
@@ -89404,6 +89412,7 @@ https://www.twitch.tv/t0kiiy
 https://www.twitch.tv/t0lik_zatmenie
 https://www.twitch.tv/t0llpatsch
 https://www.twitch.tv/t0mas1288
+https://www.twitch.tv/t0mgg_jp
 https://www.twitch.tv/t0mlunch
 https://www.twitch.tv/t0mxssj
 https://www.twitch.tv/t0n00_
