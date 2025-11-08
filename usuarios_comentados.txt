@@ -11266,6 +11266,7 @@ https://www.twitch.tv/botlorshi
 https://www.twitch.tv/botmartintv
 https://www.twitch.tv/botounex
 https://www.twitch.tv/botpavos
+https://www.twitch.tv/botpote72
 https://www.twitch.tv/botr0x
 https://www.twitch.tv/botserv_
 https://www.twitch.tv/botsito927
@@ -60084,6 +60085,7 @@ https://www.twitch.tv/mensalt
 https://www.twitch.tv/mensch_rosentv1
 https://www.twitch.tv/menschenaffe_
 https://www.twitch.tv/menschlein25
+https://www.twitch.tv/menschlucas_
 https://www.twitch.tv/menshova33
 https://www.twitch.tv/menstache
 https://www.twitch.tv/mentaldaily
@@ -69043,6 +69045,7 @@ https://www.twitch.tv/ojokerkun
 https://www.twitch.tv/ojosrojosxpr
 https://www.twitch.tv/ojuangel
 https://www.twitch.tv/ojuezz
+https://www.twitch.tv/ojyach
 https://www.twitch.tv/ok_boku_joe
 https://www.twitch.tv/oka2k
 https://www.twitch.tv/oka6526
@@ -82389,6 +82392,7 @@ https://www.twitch.tv/sfalero99
 https://www.twitch.tv/sferanews
 https://www.twitch.tv/sff_prin
 https://www.twitch.tv/sffluxiay
+https://www.twitch.tv/sfinxvisiongaming
 https://www.twitch.tv/sfiredx_
 https://www.twitch.tv/sflex_z
 https://www.twitch.tv/sfluckytv
@@ -100760,6 +100764,7 @@ https://www.twitch.tv/xsajad7
 https://www.twitch.tv/xsakurablade
 https://www.twitch.tv/xsalva99
 https://www.twitch.tv/xsam3d
+https://www.twitch.tv/xsami2934
 https://www.twitch.tv/xsan2007
 https://www.twitch.tv/xsandman_0
 https://www.twitch.tv/xsankee
