@@ -6714,6 +6714,7 @@ https://www.twitch.tv/ascar7w7
 https://www.twitch.tv/ascatrase
 https://www.twitch.tv/ascebeast
 https://www.twitch.tv/ascelan_
+https://www.twitch.tv/ascemeineeier
 https://www.twitch.tv/ascend_vl
 https://www.twitch.tv/ascendancydota
 https://www.twitch.tv/ascfn
@@ -8941,6 +8942,7 @@ https://www.twitch.tv/bayon23
 https://www.twitch.tv/bayonetadopler
 https://www.twitch.tv/bayoutv
 https://www.twitch.tv/bayrestv
+https://www.twitch.tv/bayrhem
 https://www.twitch.tv/bayrischerbaecker
 https://www.twitch.tv/bayson_solo
 https://www.twitch.tv/baysone
@@ -38836,6 +38838,7 @@ https://www.twitch.tv/ickarus_76
 https://www.twitch.tv/icklepopz07
 https://www.twitch.tv/icksdeeh
 https://www.twitch.tv/icleanshave
+https://www.twitch.tv/iclo_1
 https://www.twitch.tv/ico_2712
 https://www.twitch.tv/ico_karashuba
 https://www.twitch.tv/icodesometimes
@@ -43243,6 +43246,7 @@ https://www.twitch.tv/jindoran
 https://www.twitch.tv/jinfreak25
 https://www.twitch.tv/jinharana
 https://www.twitch.tv/jiniiix
+https://www.twitch.tv/jinjinvt
 https://www.twitch.tv/jinkaz08
 https://www.twitch.tv/jinkie_laval
 https://www.twitch.tv/jinkisaragib0t
@@ -46441,6 +46445,7 @@ https://www.twitch.tv/kamiyakana
 https://www.twitch.tv/kamiyaueno
 https://www.twitch.tv/kammleoff
 https://www.twitch.tv/kamochanlive
+https://www.twitch.tv/kamotaroooou
 https://www.twitch.tv/kamotiq
 https://www.twitch.tv/kamotu_fps
 https://www.twitch.tv/kampf__schlumpf
@@ -105163,6 +105168,7 @@ https://www.twitch.tv/zetorxh1
 https://www.twitch.tv/zetox_364
 https://www.twitch.tv/zetrds
 https://www.twitch.tv/zetrocreaper
+https://www.twitch.tv/zetrox_003
 https://www.twitch.tv/zetrulies_
 https://www.twitch.tv/zetseas
 https://www.twitch.tv/zetsu4
