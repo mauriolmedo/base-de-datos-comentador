@@ -3641,6 +3641,7 @@ https://www.twitch.tv/alex__ssj
 https://www.twitch.tv/alex__young
 https://www.twitch.tv/alex_auf_tour
 https://www.twitch.tv/alex_ay_
+https://www.twitch.tv/alex_bbh
 https://www.twitch.tv/alex_bergziege
 https://www.twitch.tv/alex_bot_exe
 https://www.twitch.tv/alex_bou70
@@ -32855,6 +32856,7 @@ https://www.twitch.tv/fratti03
 https://www.twitch.tv/frau_ali
 https://www.twitch.tv/frau_boergermann
 https://www.twitch.tv/frau_ente
+https://www.twitch.tv/frau_gisela87
 https://www.twitch.tv/frau_kaputtnik
 https://www.twitch.tv/frau_mausel
 https://www.twitch.tv/frau_trollinger
@@ -52084,6 +52086,7 @@ https://www.twitch.tv/krypto_5
 https://www.twitch.tv/kryptocosmos
 https://www.twitch.tv/kryptongamer
 https://www.twitch.tv/kryptonichd
+https://www.twitch.tv/kryptox_gamer
 https://www.twitch.tv/krys21
 https://www.twitch.tv/krys_angel
 https://www.twitch.tv/krystal_2k
@@ -95212,6 +95215,7 @@ https://www.twitch.tv/thatboiscreech
 https://www.twitch.tv/thatboyjohnny44
 https://www.twitch.tv/thatboyro_
 https://www.twitch.tv/thatfatcatgd
+https://www.twitch.tv/thatgamerdad974
 https://www.twitch.tv/thatgamergirlyouknow
 https://www.twitch.tv/thatgingerkidhd
 https://www.twitch.tv/thatgodyouknow2
@@ -97305,6 +97309,7 @@ https://www.twitch.tv/tilteddias
 https://www.twitch.tv/tiltguys23
 https://www.twitch.tv/tilu400
 https://www.twitch.tv/tim0t1
+https://www.twitch.tv/tim1990_vfb1893
 https://www.twitch.tv/tim263891
 https://www.twitch.tv/tim3machine
 https://www.twitch.tv/tim77592
@@ -108282,6 +108287,7 @@ https://www.twitch.tv/yohioshi
 https://www.twitch.tv/yohkushi
 https://www.twitch.tv/yohrentv
 https://www.twitch.tv/yohzbate_ttv
+https://www.twitch.tv/yoichi111
 https://www.twitch.tv/yoihira_yopi
 https://www.twitch.tv/yoiisha
 https://www.twitch.tv/yoikoso
@@ -108795,6 +108801,7 @@ https://www.twitch.tv/yuh_sama
 https://www.twitch.tv/yuhboyblaze
 https://www.twitch.tv/yuhmaa
 https://www.twitch.tv/yui_kitsune974
+https://www.twitch.tv/yui_san_ttv
 https://www.twitch.tv/yuichiiitv
 https://www.twitch.tv/yuichixkatagiri
 https://www.twitch.tv/yuiiblnn
@@ -110299,6 +110306,7 @@ https://www.twitch.tv/zickzack_gaming
 https://www.twitch.tv/zicxe
 https://www.twitch.tv/zidad_567
 https://www.twitch.tv/zidane_9124
+https://www.twitch.tv/zidanetnm
 https://www.twitch.tv/zidanetoto30
 https://www.twitch.tv/zidenni
 https://www.twitch.tv/ziege___
