@@ -2320,6 +2320,7 @@ https://www.twitch.tv/agen107
 https://www.twitch.tv/agen_shasu1700
 https://www.twitch.tv/agenddan_rl
 https://www.twitch.tv/agent_dysfonctionnel
+https://www.twitch.tv/agent_meat
 https://www.twitch.tv/agent_pingwin
 https://www.twitch.tv/agent_raoul
 https://www.twitch.tv/agent_ricot
@@ -36610,6 +36611,7 @@ https://www.twitch.tv/grandet20
 https://www.twitch.tv/grandetata
 https://www.twitch.tv/grandgodly
 https://www.twitch.tv/grandiosen6
+https://www.twitch.tv/grandjaxlemalheure
 https://www.twitch.tv/grandleojese
 https://www.twitch.tv/grandmababy6
 https://www.twitch.tv/grandmaster0108
@@ -48994,6 +48996,7 @@ https://www.twitch.tv/kasper_kalle
 https://www.twitch.tv/kasperbeatz
 https://www.twitch.tv/kasperr556
 https://www.twitch.tv/kaspersito
+https://www.twitch.tv/kaspilive
 https://www.twitch.tv/kass119
 https://www.twitch.tv/kassakingi
 https://www.twitch.tv/kassemtahersaleh
@@ -51167,6 +51170,7 @@ https://www.twitch.tv/kleibikus
 https://www.twitch.tv/klein_asuna
 https://www.twitch.tv/klein_cookiie
 https://www.twitch.tv/klein_kurzi1989
+https://www.twitch.tv/kleinbellalive
 https://www.twitch.tv/kleine1395
 https://www.twitch.tv/kleine_ice
 https://www.twitch.tv/kleine_madi
@@ -75801,6 +75805,7 @@ https://www.twitch.tv/paulbesen
 https://www.twitch.tv/paulbly77
 https://www.twitch.tv/paulcradle
 https://www.twitch.tv/paulcraftyoutube
+https://www.twitch.tv/pauldusudd
 https://www.twitch.tv/paule247tv
 https://www.twitch.tv/paulebaerwt
 https://www.twitch.tv/paulerp7
@@ -96572,6 +96577,7 @@ https://www.twitch.tv/themagicdoktor
 https://www.twitch.tv/themagicjoako
 https://www.twitch.tv/themagicsilent
 https://www.twitch.tv/themago
+https://www.twitch.tv/themaguro
 https://www.twitch.tv/themajin972
 https://www.twitch.tv/themaliciousmalestrom
 https://www.twitch.tv/themalle06
@@ -96850,6 +96856,7 @@ https://www.twitch.tv/thereal_sanny
 https://www.twitch.tv/therealalehandro
 https://www.twitch.tv/therealasitwd
 https://www.twitch.tv/therealboneskulll
+https://www.twitch.tv/therealcamfam
 https://www.twitch.tv/therealchaostv
 https://www.twitch.tv/therealcirex
 https://www.twitch.tv/therealcletus1985
@@ -101464,6 +101471,7 @@ https://www.twitch.tv/ursulafran
 https://www.twitch.tv/ursulegnome
 https://www.twitch.tv/urthraria
 https://www.twitch.tv/uru91
+https://www.twitch.tv/uru_mihanada
 https://www.twitch.tv/uruguayyyo
 https://www.twitch.tv/urukingo
 https://www.twitch.tv/urukun_x
@@ -107382,6 +107390,7 @@ https://www.twitch.tv/xxblackhydroxx
 https://www.twitch.tv/xxblackreaperhd
 https://www.twitch.tv/xxblacktitanx
 https://www.twitch.tv/xxblckheartxx
+https://www.twitch.tv/xxblessedchaosxx
 https://www.twitch.tv/xxbloodshootxx
 https://www.twitch.tv/xxbloux
 https://www.twitch.tv/xxbobby90xx
