@@ -7840,6 +7840,7 @@ https://www.twitch.tv/axerostv
 https://www.twitch.tv/axesaw88
 https://www.twitch.tv/axescrowfire
 https://www.twitch.tv/axetale_sans
+https://www.twitch.tv/axethecraft
 https://www.twitch.tv/axethegod1
 https://www.twitch.tv/axexgamers09
 https://www.twitch.tv/axia_rt
@@ -21719,6 +21720,7 @@ https://www.twitch.tv/derozzy
 https://www.twitch.tv/derp_snake21
 https://www.twitch.tv/derpaddee
 https://www.twitch.tv/derparagorn_panda
+https://www.twitch.tv/derparker98
 https://www.twitch.tv/derpee_cloud
 https://www.twitch.tv/derpeng_
 https://www.twitch.tv/derpilzritter
@@ -41925,6 +41927,7 @@ https://www.twitch.tv/isali_os
 https://www.twitch.tv/isamart
 https://www.twitch.tv/isamcfly
 https://www.twitch.tv/isaminelml
+https://www.twitch.tv/isamoau
 https://www.twitch.tv/isan3005
 https://www.twitch.tv/isangi74
 https://www.twitch.tv/isanta_
@@ -55250,6 +55253,7 @@ https://www.twitch.tv/lewin_13_
 https://www.twitch.tv/lewishaiti
 https://www.twitch.tv/lewomeo
 https://www.twitch.tv/lewt_05
+https://www.twitch.tv/lewwon68tqis
 https://www.twitch.tv/lewxntv
 https://www.twitch.tv/lewygz
 https://www.twitch.tv/lex_tf
@@ -74681,6 +74685,7 @@ https://www.twitch.tv/papa_geek1
 https://www.twitch.tv/papa_j0
 https://www.twitch.tv/papa_joe2509
 https://www.twitch.tv/papa_luchon92
+https://www.twitch.tv/papa_ploog
 https://www.twitch.tv/papa_subway
 https://www.twitch.tv/papa_tessart
 https://www.twitch.tv/papaarka
@@ -76405,6 +76410,7 @@ https://www.twitch.tv/pinguin_in_suit
 https://www.twitch.tv/pinguineadventures
 https://www.twitch.tv/pinguinkacke_hd
 https://www.twitch.tv/pinguinodlc
+https://www.twitch.tv/pinguinsfan1
 https://www.twitch.tv/pingunoooooot
 https://www.twitch.tv/pingwinz_
 https://www.twitch.tv/pinini1974
@@ -81750,6 +81756,7 @@ https://www.twitch.tv/ritchiebryan
 https://www.twitch.tv/rithmusdk
 https://www.twitch.tv/ritos2001
 https://www.twitch.tv/ritsu1201
+https://www.twitch.tv/rittaella
 https://www.twitch.tv/rituelelegance
 https://www.twitch.tv/ritzenritter05
 https://www.twitch.tv/ritzito
@@ -96605,6 +96612,7 @@ https://www.twitch.tv/three_alex
 https://www.twitch.tv/threearrows328
 https://www.twitch.tv/threedolphin784
 https://www.twitch.tv/threeduke
+https://www.twitch.tv/threek_kito
 https://www.twitch.tv/threosptwitch
 https://www.twitch.tv/thresh_hunter
 https://www.twitch.tv/thresherck
@@ -103107,6 +103115,7 @@ https://www.twitch.tv/warsun6
 https://www.twitch.tv/wartangas_
 https://www.twitch.tv/wartexii
 https://www.twitch.tv/warthunderxtreamer
+https://www.twitch.tv/wartik007
 https://www.twitch.tv/wartog_74
 https://www.twitch.tv/wartomtom
 https://www.twitch.tv/wartoni
@@ -108166,6 +108175,7 @@ https://www.twitch.tv/yozenfn2
 https://www.twitch.tv/yozer_fn
 https://www.twitch.tv/yozoka13
 https://www.twitch.tv/yozoraheart
+https://www.twitch.tv/yozorayueto
 https://www.twitch.tv/yozukitowa
 https://www.twitch.tv/yozzaznaider
 https://www.twitch.tv/yphgaming
