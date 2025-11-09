@@ -30224,6 +30224,7 @@ https://www.twitch.tv/fake_psyko
 https://www.twitch.tv/fake_zero_y
 https://www.twitch.tv/fakeblackhd
 https://www.twitch.tv/fakedayo
+https://www.twitch.tv/fakeentchen
 https://www.twitch.tv/fakeharry
 https://www.twitch.tv/fakehs_
 https://www.twitch.tv/fakeking45
@@ -32497,6 +32498,7 @@ https://www.twitch.tv/fr_kufa
 https://www.twitch.tv/fr_nexy
 https://www.twitch.tv/fr_replay_gaming
 https://www.twitch.tv/fr_sleazy
+https://www.twitch.tv/fr_sobo
 https://www.twitch.tv/fr_valak
 https://www.twitch.tv/fra_bea
 https://www.twitch.tv/fra_tell0
@@ -38125,6 +38127,7 @@ https://www.twitch.tv/hazelyagames
 https://www.twitch.tv/hazi890
 https://www.twitch.tv/hazi_slashh
 https://www.twitch.tv/hazill_
+https://www.twitch.tv/hazismg
 https://www.twitch.tv/hazkoooo
 https://www.twitch.tv/hazner
 https://www.twitch.tv/hazni__
@@ -48566,6 +48569,7 @@ https://www.twitch.tv/kariwaves
 https://www.twitch.tv/karizeurtv
 https://www.twitch.tv/karizmazel
 https://www.twitch.tv/karkarotte
+https://www.twitch.tv/karkettelabarquette
 https://www.twitch.tv/karl_187
 https://www.twitch.tv/karl_kawett
 https://www.twitch.tv/karla1508
@@ -62246,6 +62250,7 @@ https://www.twitch.tv/maximum305prefix
 https://www.twitch.tv/maximumbreakout
 https://www.twitch.tv/maximumjugs
 https://www.twitch.tv/maximumkennage
+https://www.twitch.tv/maximumski_
 https://www.twitch.tv/maximus49440
 https://www.twitch.tv/maximusbreit
 https://www.twitch.tv/maximusdecimus_gaming
@@ -65782,6 +65787,7 @@ https://www.twitch.tv/moonskullstoner
 https://www.twitch.tv/moonsnorlax
 https://www.twitch.tv/moonstarnola
 https://www.twitch.tv/moonstolas
+https://www.twitch.tv/moonstruckmike
 https://www.twitch.tv/moonsunboy
 https://www.twitch.tv/moonsuncry
 https://www.twitch.tv/moonsunset_
@@ -90161,6 +90167,7 @@ https://www.twitch.tv/sonicexegamer64diosxd
 https://www.twitch.tv/sonicgamer4380
 https://www.twitch.tv/sonickls
 https://www.twitch.tv/sonicloco2
+https://www.twitch.tv/sonicmk6
 https://www.twitch.tv/sonicpeje
 https://www.twitch.tv/sonicthehedgehog64
 https://www.twitch.tv/sonicwave_drm
