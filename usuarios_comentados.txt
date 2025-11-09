@@ -23445,6 +23445,7 @@ https://www.twitch.tv/doc1nn
 https://www.twitch.tv/doc_b_bones
 https://www.twitch.tv/doc_dobby
 https://www.twitch.tv/doc_his_madness
+https://www.twitch.tv/doc_juste_doc
 https://www.twitch.tv/doc_lowland
 https://www.twitch.tv/doc_psyco
 https://www.twitch.tv/doc_shadow52
@@ -77001,6 +77002,7 @@ https://www.twitch.tv/pixuli_
 https://www.twitch.tv/pixx__13
 https://www.twitch.tv/pixxel8ed
 https://www.twitch.tv/pixxelk
+https://www.twitch.tv/pixxldude
 https://www.twitch.tv/pixxx7
 https://www.twitch.tv/pixzeel
 https://www.twitch.tv/piyomaru_exe
@@ -106661,6 +106663,7 @@ https://www.twitch.tv/xsrpercyx
 https://www.twitch.tv/xss_ttv
 https://www.twitch.tv/xst0mps
 https://www.twitch.tv/xst3p22
+https://www.twitch.tv/xstatic_mia
 https://www.twitch.tv/xstermania
 https://www.twitch.tv/xstevenssl
 https://www.twitch.tv/xsticky
@@ -108270,6 +108273,7 @@ https://www.twitch.tv/yoikura_karin
 https://www.twitch.tv/yoinkmedia
 https://www.twitch.tv/yoisbel123
 https://www.twitch.tv/yoitskassa12
+https://www.twitch.tv/yoizakura_yume
 https://www.twitch.tv/yojeremyy
 https://www.twitch.tv/yojkz
 https://www.twitch.tv/yojuanser
