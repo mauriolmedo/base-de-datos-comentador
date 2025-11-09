@@ -16662,6 +16662,7 @@ https://www.twitch.tv/conjito
 https://www.twitch.tv/conka_7
 https://www.twitch.tv/conker_w
 https://www.twitch.tv/conkerino
+https://www.twitch.tv/conkerstealthyfox
 https://www.twitch.tv/conkuma
 https://www.twitch.tv/conmarvi
 https://www.twitch.tv/conmutro
@@ -22381,6 +22382,7 @@ https://www.twitch.tv/dj_vamlyktan
 https://www.twitch.tv/dj_vegeta_vnb
 https://www.twitch.tv/dj_won
 https://www.twitch.tv/dj_wrestler
+https://www.twitch.tv/dj_zyani
 https://www.twitch.tv/dja1z
 https://www.twitch.tv/djadinengono
 https://www.twitch.tv/djadjadji
@@ -32544,6 +32546,7 @@ https://www.twitch.tv/furgultheotter
 https://www.twitch.tv/furie2709
 https://www.twitch.tv/furiie_ttv
 https://www.twitch.tv/furikaeranaide
+https://www.twitch.tv/furikaketime
 https://www.twitch.tv/furikay
 https://www.twitch.tv/furina_bebou
 https://www.twitch.tv/furiousdyc
@@ -78747,6 +78750,7 @@ https://www.twitch.tv/renias2
 https://www.twitch.tv/renite20099
 https://www.twitch.tv/renitzeu
 https://www.twitch.tv/reniuxd
+https://www.twitch.tv/renji_undertail
 https://www.twitch.tv/renjiww
 https://www.twitch.tv/renjps
 https://www.twitch.tv/renkhinlive
@@ -104111,6 +104115,7 @@ https://www.twitch.tv/yaagats
 https://www.twitch.tv/yaairi
 https://www.twitch.tv/yaatusaabee
 https://www.twitch.tv/yaazghar
+https://www.twitch.tv/yabatabienn
 https://www.twitch.tv/yabbaone
 https://www.twitch.tv/yabdam
 https://www.twitch.tv/yaboicrika26
@@ -105347,6 +105352,7 @@ https://www.twitch.tv/yugernaut81
 https://www.twitch.tv/yugi_itg
 https://www.twitch.tv/yugii_ttv
 https://www.twitch.tv/yugiiwow
+https://www.twitch.tv/yugikingi
 https://www.twitch.tv/yugiohpr787
 https://www.twitch.tv/yugiugy
 https://www.twitch.tv/yugo_akira
