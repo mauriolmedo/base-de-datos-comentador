@@ -10792,6 +10792,7 @@ https://www.twitch.tv/bjcorbe
 https://www.twitch.tv/bjmuerte
 https://www.twitch.tv/bjoern_dasbrot
 https://www.twitch.tv/bjoernemann89
+https://www.twitch.tv/bjoerns02
 https://www.twitch.tv/bjopp1
 https://www.twitch.tv/bjornarte
 https://www.twitch.tv/bjornbes
@@ -32026,6 +32027,7 @@ https://www.twitch.tv/flaca_cargo
 https://www.twitch.tv/flacdau
 https://www.twitch.tv/flacheryt
 https://www.twitch.tv/flachiiixd
+https://www.twitch.tv/flacmrd
 https://www.twitch.tv/flaco_encocado
 https://www.twitch.tv/flaco_iq
 https://www.twitch.tv/flacobansky
@@ -33925,6 +33927,7 @@ https://www.twitch.tv/fuzzy_280205
 https://www.twitch.tv/fuzzywindman
 https://www.twitch.tv/fvairiywings
 https://www.twitch.tv/fvbeta190
+https://www.twitch.tv/fvdeluxe
 https://www.twitch.tv/fvjesus
 https://www.twitch.tv/fvjusaxd
 https://www.twitch.tv/fvresb69
@@ -41754,6 +41757,7 @@ https://www.twitch.tv/imnot_lui
 https://www.twitch.tv/imnot_ow
 https://www.twitch.tv/imnotjedai
 https://www.twitch.tv/imnotkarts
+https://www.twitch.tv/imnotreallycharles
 https://www.twitch.tv/imnots0fia
 https://www.twitch.tv/imnottdev
 https://www.twitch.tv/imnotthewrongsteven
@@ -42246,6 +42250,7 @@ https://www.twitch.tv/inu_taran
 https://www.twitch.tv/inu_wanwanooo
 https://www.twitch.tv/inubusi
 https://www.twitch.tv/inuduka_
+https://www.twitch.tv/inugurasu
 https://www.twitch.tv/inuhoshihitsuji
 https://www.twitch.tv/inui_rokuto_
 https://www.twitch.tv/inuke98
@@ -64315,6 +64320,7 @@ https://www.twitch.tv/mfcshadow_
 https://www.twitch.tv/mfervita
 https://www.twitch.tv/mffm_eric
 https://www.twitch.tv/mfg_infamoustemp
+https://www.twitch.tv/mfgundim
 https://www.twitch.tv/mfjonesss87
 https://www.twitch.tv/mfmelmel
 https://www.twitch.tv/mfmf_kmbk
@@ -72166,6 +72172,7 @@ https://www.twitch.tv/noncham_jp
 https://www.twitch.tv/nonchan30
 https://www.twitch.tv/none_afk
 https://www.twitch.tv/nonecorm
+https://www.twitch.tv/nonemobi
 https://www.twitch.tv/nonexistentgirl
 https://www.twitch.tv/nongorilla
 https://www.twitch.tv/noni83460
@@ -73117,6 +73124,7 @@ https://www.twitch.tv/nyxenggwp
 https://www.twitch.tv/nyxi0r
 https://www.twitch.tv/nyxi0s
 https://www.twitch.tv/nyxia_8
+https://www.twitch.tv/nyxia_rae
 https://www.twitch.tv/nyxian2025
 https://www.twitch.tv/nyxie_1623
 https://www.twitch.tv/nyxiona_ravenwood
@@ -111204,6 +111212,7 @@ https://www.twitch.tv/zenox_77_
 https://www.twitch.tv/zenox_ytb418
 https://www.twitch.tv/zenoxize842
 https://www.twitch.tv/zenoxksbt
+https://www.twitch.tv/zenoxoff02
 https://www.twitch.tv/zenoxxix
 https://www.twitch.tv/zenoz91
 https://www.twitch.tv/zenqo16
