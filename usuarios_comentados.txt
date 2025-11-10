@@ -898,6 +898,7 @@ https://www.twitch.tv/505silent
 https://www.twitch.tv/506kora
 https://www.twitch.tv/50943547684
 https://www.twitch.tv/50kilowatt
+https://www.twitch.tv/50shakesofwheyy
 https://www.twitch.tv/510_015
 https://www.twitch.tv/512_bytes
 https://www.twitch.tv/519426
@@ -2862,6 +2863,7 @@ https://www.twitch.tv/akagami_noshanks16
 https://www.twitch.tv/akagamivm
 https://www.twitch.tv/akagealice
 https://www.twitch.tv/akages_
+https://www.twitch.tv/akagi_yoru
 https://www.twitch.tv/akai_rubi
 https://www.twitch.tv/akaidragonyt
 https://www.twitch.tv/akaifujidayo
@@ -5737,6 +5739,7 @@ https://www.twitch.tv/annayalahari
 https://www.twitch.tv/annbelievable90
 https://www.twitch.tv/anndresitouw
 https://www.twitch.tv/anndyvil
+https://www.twitch.tv/annedanceau
 https://www.twitch.tv/annefdez_10
 https://www.twitch.tv/annekind_skywalker
 https://www.twitch.tv/anneloots
@@ -59747,6 +59750,7 @@ https://www.twitch.tv/lukasinutilismo
 https://www.twitch.tv/lukasisinthehoause
 https://www.twitch.tv/lukaskaufmann1
 https://www.twitch.tv/lukasmagaepfel
+https://www.twitch.tv/lukasontourr
 https://www.twitch.tv/lukasrewtv
 https://www.twitch.tv/lukasvan85
 https://www.twitch.tv/lukaswwitv
@@ -61251,6 +61255,7 @@ https://www.twitch.tv/maistheemperor
 https://www.twitch.tv/maistro7u7
 https://www.twitch.tv/maitake3654
 https://www.twitch.tv/maite71000
+https://www.twitch.tv/maiteururu
 https://www.twitch.tv/maito_man
 https://www.twitch.tv/maitomo265
 https://www.twitch.tv/maitre_de_la_saucisse
@@ -67321,6 +67326,7 @@ https://www.twitch.tv/monsieurzy
 https://www.twitch.tv/monsindour27
 https://www.twitch.tv/monspeed38
 https://www.twitch.tv/monsplash
+https://www.twitch.tv/monster80500
 https://www.twitch.tv/monster__6668
 https://www.twitch.tv/monster_karuzo
 https://www.twitch.tv/monster_zicke
@@ -82444,6 +82450,7 @@ https://www.twitch.tv/realmonn
 https://www.twitch.tv/realmoritz29
 https://www.twitch.tv/realmoxs
 https://www.twitch.tv/realmrpopcorn
+https://www.twitch.tv/realmsnportals
 https://www.twitch.tv/realmyenemy
 https://www.twitch.tv/realnacho11
 https://www.twitch.tv/realnakata1
@@ -107540,6 +107547,7 @@ https://www.twitch.tv/x_skallig
 https://www.twitch.tv/x_skyzze_x
 https://www.twitch.tv/x_soulslike_x
 https://www.twitch.tv/x_stiltskin_x
+https://www.twitch.tv/x_suruxio_x
 https://www.twitch.tv/x_sweet_psycho
 https://www.twitch.tv/x_th3_j0k3r_x
 https://www.twitch.tv/x_thedead_x
