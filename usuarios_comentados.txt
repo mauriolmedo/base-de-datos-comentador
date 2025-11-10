@@ -1722,6 +1722,7 @@ https://www.twitch.tv/ace_ow2
 https://www.twitch.tv/ace_robin09
 https://www.twitch.tv/ace_rukie1976
 https://www.twitch.tv/ace_shooter_7
+https://www.twitch.tv/ace_zer0x
 https://www.twitch.tv/ace_zyzou
 https://www.twitch.tv/aceac_tv
 https://www.twitch.tv/aceandkingtv
@@ -3062,6 +3063,7 @@ https://www.twitch.tv/akii0227
 https://www.twitch.tv/akiiaaa
 https://www.twitch.tv/akiicore
 https://www.twitch.tv/akiidesune
+https://www.twitch.tv/akiikus
 https://www.twitch.tv/akiintv
 https://www.twitch.tv/akiiomi
 https://www.twitch.tv/akiira_twitch
@@ -20274,6 +20276,7 @@ https://www.twitch.tv/danielpsx
 https://www.twitch.tv/danielreyes987023
 https://www.twitch.tv/danielrodrigu3z
 https://www.twitch.tv/danielrodriguez318
+https://www.twitch.tv/daniels_allerlei
 https://www.twitch.tv/danielsdartfieber
 https://www.twitch.tv/danielsongstv
 https://www.twitch.tv/danielsonyeon
@@ -25305,6 +25308,7 @@ https://www.twitch.tv/dravux_
 https://www.twitch.tv/draw_mellie
 https://www.twitch.tv/draw_pr0
 https://www.twitch.tv/drawcatd
+https://www.twitch.tv/drawde_cirle
 https://www.twitch.tv/drawgonimate
 https://www.twitch.tv/drawlpetty
 https://www.twitch.tv/drawniowa9512
@@ -45112,6 +45116,7 @@ https://www.twitch.tv/jackthebackyt
 https://www.twitch.tv/jacktoreador08
 https://www.twitch.tv/jacktuhi
 https://www.twitch.tv/jackvand0
+https://www.twitch.tv/jackxp_zockt
 https://www.twitch.tv/jacky1720
 https://www.twitch.tv/jacky83ig
 https://www.twitch.tv/jacky9391
@@ -54734,6 +54739,7 @@ https://www.twitch.tv/kyokettracher
 https://www.twitch.tv/kyokomiha
 https://www.twitch.tv/kyokyo_penguin
 https://www.twitch.tv/kyolsu
+https://www.twitch.tv/kyon818dragon
 https://www.twitch.tv/kyon_kurashika
 https://www.twitch.tv/kyono_coppe
 https://www.twitch.tv/kyoomc
@@ -61035,6 +61041,7 @@ https://www.twitch.tv/lusor_antonimax
 https://www.twitch.tv/lusrod_pnp
 https://www.twitch.tv/lustigerbayer
 https://www.twitch.tv/lustluvv
+https://www.twitch.tv/lustreyal
 https://www.twitch.tv/lustrous_play
 https://www.twitch.tv/lustu_tv
 https://www.twitch.tv/lusulusu07
@@ -112518,6 +112525,7 @@ https://www.twitch.tv/yijel
 https://www.twitch.tv/yilang531
 https://www.twitch.tv/yilaro
 https://www.twitch.tv/yinbizzle
+https://www.twitch.tv/ying_et_yang
 https://www.twitch.tv/ying_yang_uwu
 https://www.twitch.tv/yinitashi
 https://www.twitch.tv/yinyamtv
