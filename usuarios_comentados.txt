@@ -4692,6 +4692,7 @@ https://www.twitch.tv/amagi_00
 https://www.twitch.tv/amagi_kamina
 https://www.twitch.tv/amagiritoki
 https://www.twitch.tv/amaha_ailu
+https://www.twitch.tv/amahanalalako
 https://www.twitch.tv/amaindesuyo
 https://www.twitch.tv/amairoamane
 https://www.twitch.tv/amakakesoran
@@ -23197,6 +23198,7 @@ https://www.twitch.tv/dj_cookie_
 https://www.twitch.tv/dj_cucumbe
 https://www.twitch.tv/dj_derkleine_74
 https://www.twitch.tv/dj_don79
+https://www.twitch.tv/dj_e_style
 https://www.twitch.tv/dj_epps
 https://www.twitch.tv/dj_ernie_xd
 https://www.twitch.tv/dj_falkentanz
@@ -60085,6 +60087,7 @@ https://www.twitch.tv/maddchillgaming
 https://www.twitch.tv/madderedd
 https://www.twitch.tv/madderskyxiv
 https://www.twitch.tv/maddhatter6009
+https://www.twitch.tv/maddhouse16
 https://www.twitch.tv/maddie_o4o7
 https://www.twitch.tv/maddilou3
 https://www.twitch.tv/maddin477
@@ -75091,6 +75094,7 @@ https://www.twitch.tv/p3dhub
 https://www.twitch.tv/p3nsando
 https://www.twitch.tv/p3sasha
 https://www.twitch.tv/p3sbeast
+https://www.twitch.tv/p3tro84
 https://www.twitch.tv/p41n_x
 https://www.twitch.tv/p47_the_doctor
 https://www.twitch.tv/p4blosky7
@@ -96873,6 +96877,7 @@ https://www.twitch.tv/thegameroff300
 https://www.twitch.tv/thegamers01_
 https://www.twitch.tv/thegamersassembly66
 https://www.twitch.tv/thegamersytb2020
+https://www.twitch.tv/thegamerwolflj
 https://www.twitch.tv/thegamerzzz
 https://www.twitch.tv/thegamesadow
 https://www.twitch.tv/thegameurx
