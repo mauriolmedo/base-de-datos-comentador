@@ -2836,6 +2836,7 @@ https://www.twitch.tv/aka_chelios
 https://www.twitch.tv/aka_drumm
 https://www.twitch.tv/aka_godson
 https://www.twitch.tv/aka_havok
+https://www.twitch.tv/aka_machi
 https://www.twitch.tv/aka_nico
 https://www.twitch.tv/aka_sm1th
 https://www.twitch.tv/aka_torii
@@ -24832,6 +24833,7 @@ https://www.twitch.tv/drbzp
 https://www.twitch.tv/drc_lu1s
 https://www.twitch.tv/drcaotick
 https://www.twitch.tv/drcen97
+https://www.twitch.tv/drclockwerk
 https://www.twitch.tv/drcosmooo69
 https://www.twitch.tv/drcritik
 https://www.twitch.tv/drdarkzero
@@ -43257,6 +43259,7 @@ https://www.twitch.tv/itsalterfate
 https://www.twitch.tv/itsanaric
 https://www.twitch.tv/itsanimi
 https://www.twitch.tv/itsanuta
+https://www.twitch.tv/itsapexiq
 https://www.twitch.tv/itsarath935
 https://www.twitch.tv/itsartur00
 https://www.twitch.tv/itsasianfn
@@ -79774,6 +79777,7 @@ https://www.twitch.tv/psgamer202477
 https://www.twitch.tv/psgimp4ct
 https://www.twitch.tv/pshanfdart
 https://www.twitch.tv/pshyco_game
+https://www.twitch.tv/psi_ades
 https://www.twitch.tv/psic0ticojoker
 https://www.twitch.tv/psichik12
 https://www.twitch.tv/psicneroandzarick
@@ -95586,6 +95590,7 @@ https://www.twitch.tv/taka_ais22
 https://www.twitch.tv/takaaaaaa_
 https://www.twitch.tv/takaadita
 https://www.twitch.tv/takachio
+https://www.twitch.tv/takagamesu
 https://www.twitch.tv/takaheshi_
 https://www.twitch.tv/takaishi102
 https://www.twitch.tv/takama3
@@ -104344,6 +104349,7 @@ https://www.twitch.tv/viinzrr
 https://www.twitch.tv/viiper_gg
 https://www.twitch.tv/viiroy_
 https://www.twitch.tv/viirtuoz62
+https://www.twitch.tv/viiruxz
 https://www.twitch.tv/viitaliiz
 https://www.twitch.tv/viivaxtv
 https://www.twitch.tv/viivo_
