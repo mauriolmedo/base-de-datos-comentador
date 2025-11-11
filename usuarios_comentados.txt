@@ -14606,6 +14606,7 @@ https://www.twitch.tv/captain_keklachs
 https://www.twitch.tv/captain_kiosk
 https://www.twitch.tv/captain_lavi
 https://www.twitch.tv/captain_lodbrok
+https://www.twitch.tv/captain_m_coke
 https://www.twitch.tv/captain_morrr
 https://www.twitch.tv/captain_petrin
 https://www.twitch.tv/captain_pianist
@@ -22461,6 +22462,7 @@ https://www.twitch.tv/der_baastii
 https://www.twitch.tv/der_berlina_twitcher
 https://www.twitch.tv/der_bieber
 https://www.twitch.tv/der_blaue_bob
+https://www.twitch.tv/der_blindjaenger
 https://www.twitch.tv/der_boecki
 https://www.twitch.tv/der_bommerang
 https://www.twitch.tv/der_bosna
@@ -55073,6 +55075,7 @@ https://www.twitch.tv/kznvlr4
 https://www.twitch.tv/kzo_erli
 https://www.twitch.tv/kzovl
 https://www.twitch.tv/kzr_kaizor
+https://www.twitch.tv/kzr_v4n1sh
 https://www.twitch.tv/kzspectrum
 https://www.twitch.tv/kzw_pokzy
 https://www.twitch.tv/l007ll
@@ -56616,6 +56619,7 @@ https://www.twitch.tv/le_tartare
 https://www.twitch.tv/le_tavernier__
 https://www.twitch.tv/le_tigre_or
 https://www.twitch.tv/le_titoou
+https://www.twitch.tv/le_tontonshark
 https://www.twitch.tv/le_toufoux
 https://www.twitch.tv/le_trou_normand
 https://www.twitch.tv/le_tueur_2034
@@ -74497,6 +74501,7 @@ https://www.twitch.tv/nono0011
 https://www.twitch.tv/nono1975
 https://www.twitch.tv/nono210611
 https://www.twitch.tv/nono3142neuille
+https://www.twitch.tv/nono6990
 https://www.twitch.tv/nono_7716
 https://www.twitch.tv/nono_aes_
 https://www.twitch.tv/nono_age
@@ -86042,6 +86047,7 @@ https://www.twitch.tv/robertovl59
 https://www.twitch.tv/robertrapgameplay
 https://www.twitch.tv/roberttcamacho
 https://www.twitch.tv/roberttgg
+https://www.twitch.tv/robertthedragonkingvt
 https://www.twitch.tv/robertunchained
 https://www.twitch.tv/robertuybrush
 https://www.twitch.tv/robertwaldonn
@@ -87178,6 +87184,7 @@ https://www.twitch.tv/ruface
 https://www.twitch.tv/rufc_jack
 https://www.twitch.tv/rufetexd
 https://www.twitch.tv/ruffstylezz
+https://www.twitch.tv/rufftuffreknar
 https://www.twitch.tv/ruffy_kudo
 https://www.twitch.tv/ruffyboyy
 https://www.twitch.tv/ruffydtrix
@@ -114830,6 +114837,7 @@ https://www.twitch.tv/zeldagrossmeisterlive
 https://www.twitch.tv/zeldah
 https://www.twitch.tv/zeldahuwu
 https://www.twitch.tv/zeldamelodychan
+https://www.twitch.tv/zeldatp2
 https://www.twitch.tv/zeldex_eldiablos
 https://www.twitch.tv/zeldoretro
 https://www.twitch.tv/zeldran2
