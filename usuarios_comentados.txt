@@ -1687,6 +1687,7 @@ https://www.twitch.tv/absolutjun
 https://www.twitch.tv/absolutmarcelttv
 https://www.twitch.tv/absoluttechn0
 https://www.twitch.tv/absolutyv2
+https://www.twitch.tv/absoluvortex
 https://www.twitch.tv/absolvinator
 https://www.twitch.tv/abstain16
 https://www.twitch.tv/abstaubinho10
@@ -6410,6 +6411,7 @@ https://www.twitch.tv/aoi_sora3
 https://www.twitch.tv/aoi_tansan
 https://www.twitch.tv/aoi_umizora
 https://www.twitch.tv/aoidayo0222
+https://www.twitch.tv/aoikurotaxa
 https://www.twitch.tv/aoiloadjpn
 https://www.twitch.tv/aoiookami2029
 https://www.twitch.tv/aoiro___
@@ -45782,6 +45784,7 @@ https://www.twitch.tv/itz_1egend
 https://www.twitch.tv/itz_andreex
 https://www.twitch.tv/itz_asky_
 https://www.twitch.tv/itz_azan
+https://www.twitch.tv/itz_azen
 https://www.twitch.tv/itz_ext3x
 https://www.twitch.tv/itz_fr4nx
 https://www.twitch.tv/itz_jiggy420
@@ -51830,6 +51833,7 @@ https://www.twitch.tv/kangal787
 https://www.twitch.tv/kangaroo_op
 https://www.twitch.tv/kangreburgito1
 https://www.twitch.tv/kanhijo96
+https://www.twitch.tv/kani3a
 https://www.twitch.tv/kani_progg
 https://www.twitch.tv/kanikamaharuno
 https://www.twitch.tv/kanikingdazo
@@ -75526,6 +75530,7 @@ https://www.twitch.tv/niki_vb24
 https://www.twitch.tv/nikibeyons
 https://www.twitch.tv/nikichar
 https://www.twitch.tv/nikiitout
+https://www.twitch.tv/nikila
 https://www.twitch.tv/nikimainstrada
 https://www.twitch.tv/nikinuts64
 https://www.twitch.tv/nikisworld
@@ -103944,6 +103949,7 @@ https://www.twitch.tv/thiuygfgh
 https://www.twitch.tv/thizzleyadams
 https://www.twitch.tv/thjo_1
 https://www.twitch.tv/thk_nando08
+https://www.twitch.tv/thldor
 https://www.twitch.tv/thm4gic
 https://www.twitch.tv/thmartin107hag
 https://www.twitch.tv/thmyblu
@@ -116451,6 +116457,7 @@ https://www.twitch.tv/yotox47
 https://www.twitch.tv/yotrix28
 https://www.twitch.tv/yotsuba_g
 https://www.twitch.tv/yotsuhamil
+https://www.twitch.tv/yotsumishiro
 https://www.twitch.tv/yotsuya_azuki
 https://www.twitch.tv/yotsuya_nagi
 https://www.twitch.tv/yott_redfox
@@ -117531,6 +117538,7 @@ https://www.twitch.tv/zapyxtv
 https://www.twitch.tv/zaqueyt
 https://www.twitch.tv/zaqzlol
 https://www.twitch.tv/zar1ax
+https://www.twitch.tv/zar_booga
 https://www.twitch.tv/zarabadoudeshow
 https://www.twitch.tv/zarabane
 https://www.twitch.tv/zaradul_
@@ -119026,6 +119034,7 @@ https://www.twitch.tv/zunhy
 https://www.twitch.tv/zuniga123jdjs
 https://www.twitch.tv/zunksoyyo
 https://www.twitch.tv/zunlegitfakelp_
+https://www.twitch.tv/zunlxqit_luca
 https://www.twitch.tv/zupawfps
 https://www.twitch.tv/zuportt
 https://www.twitch.tv/zuppel_zockt
