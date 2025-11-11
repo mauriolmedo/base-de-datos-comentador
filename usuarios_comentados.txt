@@ -4314,6 +4314,7 @@ https://www.twitch.tv/alezuka
 https://www.twitch.tv/alezuz
 https://www.twitch.tv/alezyode
 https://www.twitch.tv/alf9ma
+https://www.twitch.tv/alf_de_melmac
 https://www.twitch.tv/alf_del
 https://www.twitch.tv/alf_francais
 https://www.twitch.tv/alf_jundip
@@ -46384,6 +46385,7 @@ https://www.twitch.tv/izonegameplay
 https://www.twitch.tv/izoniick
 https://www.twitch.tv/izoommx
 https://www.twitch.tv/izquigugu
+https://www.twitch.tv/izrech
 https://www.twitch.tv/izu_35
 https://www.twitch.tv/izubjork
 https://www.twitch.tv/izuekoi
@@ -48439,6 +48441,7 @@ https://www.twitch.tv/jisoodau
 https://www.twitch.tv/jispouille93440
 https://www.twitch.tv/jisus1704
 https://www.twitch.tv/jisuspro1
+https://www.twitch.tv/jisuuke
 https://www.twitch.tv/jisyoku
 https://www.twitch.tv/jito2timez
 https://www.twitch.tv/jitorog24
@@ -53023,6 +53026,7 @@ https://www.twitch.tv/kendo502ka
 https://www.twitch.tv/kendrichbn
 https://www.twitch.tv/kendurvx
 https://www.twitch.tv/kenek_tv
+https://www.twitch.tv/kenektv_
 https://www.twitch.tv/kenevra345
 https://www.twitch.tv/kenextom13
 https://www.twitch.tv/kenfpion
@@ -76454,6 +76458,7 @@ https://www.twitch.tv/nodforkiss
 https://www.twitch.tv/nodo5o9
 https://www.twitch.tv/nododgez
 https://www.twitch.tv/nodoka_tyoukan
+https://www.twitch.tv/nodymoon
 https://www.twitch.tv/noe_mg
 https://www.twitch.tv/noecorroyette2609
 https://www.twitch.tv/noel54st
@@ -86020,6 +86025,7 @@ https://www.twitch.tv/raquelhawke
 https://www.twitch.tv/raquettetv
 https://www.twitch.tv/rara02101
 https://www.twitch.tv/rara8games
+https://www.twitch.tv/rarasame
 https://www.twitch.tv/rare_radio
 https://www.twitch.tv/rarecheesenico
 https://www.twitch.tv/rarenuus
@@ -104062,6 +104068,7 @@ https://www.twitch.tv/thesuperproyt
 https://www.twitch.tv/thesurqueen
 https://www.twitch.tv/thesweetcoco
 https://www.twitch.tv/theswissboxconversation
+https://www.twitch.tv/theswooshi
 https://www.twitch.tv/thetable_friend
 https://www.twitch.tv/thetace
 https://www.twitch.tv/thetanorius
