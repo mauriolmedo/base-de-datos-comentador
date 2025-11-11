@@ -3071,6 +3071,7 @@ https://www.twitch.tv/akiiaaa
 https://www.twitch.tv/akiicore
 https://www.twitch.tv/akiidesune
 https://www.twitch.tv/akiikus
+https://www.twitch.tv/akiinoori
 https://www.twitch.tv/akiintv
 https://www.twitch.tv/akiiomi
 https://www.twitch.tv/akiira_twitch
@@ -31322,6 +31323,7 @@ https://www.twitch.tv/facedechips
 https://www.twitch.tv/facedemon44
 https://www.twitch.tv/faceking1
 https://www.twitch.tv/faceless_fail
+https://www.twitch.tv/faceonastick
 https://www.twitch.tv/faceroll13
 https://www.twitch.tv/facerollval
 https://www.twitch.tv/facgx
@@ -40057,6 +40059,7 @@ https://www.twitch.tv/helveciapatriot
 https://www.twitch.tv/helvetege
 https://www.twitch.tv/helvionch
 https://www.twitch.tv/helwalker777
+https://www.twitch.tv/hemakite
 https://www.twitch.tv/hemangiona_viviente
 https://www.twitch.tv/hemeyyrose
 https://www.twitch.tv/hemisc_mumo
@@ -54886,6 +54889,7 @@ https://www.twitch.tv/kyubi20243
 https://www.twitch.tv/kyubi_645
 https://www.twitch.tv/kyubigames
 https://www.twitch.tv/kyuchan_renarde_divine
+https://www.twitch.tv/kyugitv
 https://www.twitch.tv/kyuhachii
 https://www.twitch.tv/kyume222
 https://www.twitch.tv/kyurixtv
@@ -76375,6 +76379,7 @@ https://www.twitch.tv/oniiruru
 https://www.twitch.tv/oniizuukaa43
 https://www.twitch.tv/onikagesamatv
 https://www.twitch.tv/onikama
+https://www.twitch.tv/oniku_mai
 https://www.twitch.tv/onikusandesu
 https://www.twitch.tv/onilink11
 https://www.twitch.tv/onilink57
@@ -94354,6 +94359,7 @@ https://www.twitch.tv/soropoco
 https://www.twitch.tv/sorpentix
 https://www.twitch.tv/sorra94
 https://www.twitch.tv/sorrel_archield
+https://www.twitch.tv/sorrowfulclown_
 https://www.twitch.tv/sorrybrudiitv
 https://www.twitch.tv/sorryimroma
 https://www.twitch.tv/sorrymydogplays
@@ -98369,6 +98375,7 @@ https://www.twitch.tv/tbcsurvivor
 https://www.twitch.tv/tbd_triqvoq
 https://www.twitch.tv/tbebry4n
 https://www.twitch.tv/tbegja
+https://www.twitch.tv/tbfg_js
 https://www.twitch.tv/tbfz_manuel_py
 https://www.twitch.tv/tbg_lucifer
 https://www.twitch.tv/tblaze562
@@ -103572,6 +103579,7 @@ https://www.twitch.tv/tschenzo99
 https://www.twitch.tv/tscheok_
 https://www.twitch.tv/tschessytv
 https://www.twitch.tv/tschimjuniorttv
+https://www.twitch.tv/tschimygaming
 https://www.twitch.tv/tschione
 https://www.twitch.tv/tschosu
 https://www.twitch.tv/tschubomoting
