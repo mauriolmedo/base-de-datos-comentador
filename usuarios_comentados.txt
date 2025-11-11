@@ -1333,6 +1333,7 @@ https://www.twitch.tv/a1denxr
 https://www.twitch.tv/a1exm7
 https://www.twitch.tv/a1exrz
 https://www.twitch.tv/a1gle39
+https://www.twitch.tv/a1larmanlage
 https://www.twitch.tv/a1m_hunt3r
 https://www.twitch.tv/a1mjoker92
 https://www.twitch.tv/a1rastaa
@@ -16320,6 +16321,7 @@ https://www.twitch.tv/chasseurdelunes
 https://www.twitch.tv/chastiefolt
 https://www.twitch.tv/chasublerouge
 https://www.twitch.tv/chat_timswitch
+https://www.twitch.tv/chatandcheif
 https://www.twitch.tv/chatdoows
 https://www.twitch.tv/chaterbox
 https://www.twitch.tv/chatga_helper
@@ -51193,6 +51195,7 @@ https://www.twitch.tv/kaisascars
 https://www.twitch.tv/kaisclmeistertv
 https://www.twitch.tv/kaisen2719
 https://www.twitch.tv/kaiser_lomps
+https://www.twitch.tv/kaiser_zenith
 https://www.twitch.tv/kaiserayvt
 https://www.twitch.tv/kaiserbyon
 https://www.twitch.tv/kaiserdarkaxe
@@ -51724,6 +51727,7 @@ https://www.twitch.tv/kara_aka_anthominus
 https://www.twitch.tv/kara_bistouilles
 https://www.twitch.tv/kara_ge25466
 https://www.twitch.tv/karaage_chang
+https://www.twitch.tv/karaagejack
 https://www.twitch.tv/karachas_
 https://www.twitch.tv/karadian_
 https://www.twitch.tv/karadoc_thuzad
@@ -90061,6 +90065,7 @@ https://www.twitch.tv/saku24ch
 https://www.twitch.tv/saku2o
 https://www.twitch.tv/saku2pandachan
 https://www.twitch.tv/saku_0814
+https://www.twitch.tv/saku_xoxo
 https://www.twitch.tv/sakudesuyoi
 https://www.twitch.tv/sakuexe
 https://www.twitch.tv/sakugaia
@@ -109900,6 +109905,7 @@ https://www.twitch.tv/volletmett
 https://www.twitch.tv/vollkaern
 https://www.twitch.tv/volltes
 https://www.twitch.tv/volofoneog
+https://www.twitch.tv/volonnte
 https://www.twitch.tv/volperossa
 https://www.twitch.tv/volpexx221
 https://www.twitch.tv/vols_lol
