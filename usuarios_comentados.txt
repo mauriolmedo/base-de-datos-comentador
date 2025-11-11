@@ -2289,6 +2289,7 @@ https://www.twitch.tv/aeffletw
 https://www.twitch.tv/aegisystem
 https://www.twitch.tv/aegnorazo
 https://www.twitch.tv/aeirinn
+https://www.twitch.tv/aekami
 https://www.twitch.tv/aekeep
 https://www.twitch.tv/aelacrocoqc_fr
 https://www.twitch.tv/aelistv
@@ -6419,6 +6420,7 @@ https://www.twitch.tv/aqtenvlr
 https://www.twitch.tv/aqtiee
 https://www.twitch.tv/aqua2koneko
 https://www.twitch.tv/aqua__02
+https://www.twitch.tv/aqua_bolt0
 https://www.twitch.tv/aqua_eric19
 https://www.twitch.tv/aqua_phibian
 https://www.twitch.tv/aqua_swr
@@ -39281,6 +39283,7 @@ https://www.twitch.tv/hallmartilloderoble
 https://www.twitch.tv/hallo_alexa_tv
 https://www.twitch.tv/halloduda92
 https://www.twitch.tv/hallolou
+https://www.twitch.tv/hallowknightz
 https://www.twitch.tv/hallsmasher
 https://www.twitch.tv/hallvar0r
 https://www.twitch.tv/halocynthia
@@ -45824,6 +45827,7 @@ https://www.twitch.tv/jaschnie
 https://www.twitch.tv/jasebjorn
 https://www.twitch.tv/jasgametv
 https://www.twitch.tv/jasgo25
+https://www.twitch.tv/jashin_mayuge
 https://www.twitch.tv/jashiraptor
 https://www.twitch.tv/jasi167
 https://www.twitch.tv/jasi_01052020
@@ -46611,6 +46615,7 @@ https://www.twitch.tv/jeromiaaten
 https://www.twitch.tv/jeronibroce
 https://www.twitch.tv/jerorincon16
 https://www.twitch.tv/jerox707
+https://www.twitch.tv/jerremsan
 https://www.twitch.tv/jerrrrrrrro
 https://www.twitch.tv/jerrx_val
 https://www.twitch.tv/jerrybegui
@@ -61192,6 +61197,7 @@ https://www.twitch.tv/lumos_hl_nox_18
 https://www.twitch.tv/lumosaft
 https://www.twitch.tv/lumosdream98
 https://www.twitch.tv/lumoslumos
+https://www.twitch.tv/lumowolfy
 https://www.twitch.tv/lumoxygaming
 https://www.twitch.tv/lumpi_on_siegex
 https://www.twitch.tv/lumpiderlausbub
@@ -84655,6 +84661,7 @@ https://www.twitch.tv/regretti96
 https://www.twitch.tv/regueiraa
 https://www.twitch.tv/regularchoker
 https://www.twitch.tv/regulo31
+https://www.twitch.tv/regylive
 https://www.twitch.tv/rehdo_
 https://www.twitch.tv/rehneeh
 https://www.twitch.tv/rehzur_
