@@ -10124,6 +10124,7 @@ https://www.twitch.tv/be4rdo
 https://www.twitch.tv/be4stv2
 https://www.twitch.tv/be_core
 https://www.twitch.tv/be_grimreaper
+https://www.twitch.tv/be_ka90
 https://www.twitch.tv/be_oh_why_not
 https://www.twitch.tv/be_rax
 https://www.twitch.tv/be_together
@@ -23672,6 +23673,7 @@ https://www.twitch.tv/devil_unicorn96
 https://www.twitch.tv/devil_uu
 https://www.twitch.tv/devil_v2
 https://www.twitch.tv/devil_yukinoa
+https://www.twitch.tv/devilachido
 https://www.twitch.tv/devilangel1704
 https://www.twitch.tv/devilboy969
 https://www.twitch.tv/devilchen_85
@@ -30106,6 +30108,7 @@ https://www.twitch.tv/emilianoreyyoutube
 https://www.twitch.tv/emilianorrtv
 https://www.twitch.tv/emiliemaliamyliana
 https://www.twitch.tv/emilienmaugercaricatures
+https://www.twitch.tv/emiliestar_18
 https://www.twitch.tv/emilinh0
 https://www.twitch.tv/emilio98702
 https://www.twitch.tv/emilio_from_temu
@@ -73307,6 +73310,7 @@ https://www.twitch.tv/nael_deb
 https://www.twitch.tv/nael_game
 https://www.twitch.tv/nael_monteur
 https://www.twitch.tv/nael_q92
+https://www.twitch.tv/naelynoir
 https://www.twitch.tv/naemjii
 https://www.twitch.tv/naemonandalos
 https://www.twitch.tv/naemoria
@@ -77616,6 +77620,7 @@ https://www.twitch.tv/nytooos
 https://www.twitch.tv/nytr0uz
 https://www.twitch.tv/nytr4x
 https://www.twitch.tv/nytro_dz
+https://www.twitch.tv/nytroxer
 https://www.twitch.tv/nytroxftn
 https://www.twitch.tv/nytystar
 https://www.twitch.tv/nyu140
@@ -78816,6 +78821,7 @@ https://www.twitch.tv/onix92
 https://www.twitch.tv/onixcruz23
 https://www.twitch.tv/onixeos
 https://www.twitch.tv/onixwolf1414
+https://www.twitch.tv/oniyu_twitch
 https://www.twitch.tv/onizuka2734
 https://www.twitch.tv/onizuka97_2
 https://www.twitch.tv/onizuka_481
@@ -89894,6 +89900,7 @@ https://www.twitch.tv/rustist1
 https://www.twitch.tv/rustlantis
 https://www.twitch.tv/rusty_lords
 https://www.twitch.tv/rusty_russ
+https://www.twitch.tv/rusty_tot
 https://www.twitch.tv/rustynoodle
 https://www.twitch.tv/rusya_show
 https://www.twitch.tv/ruteeka
@@ -94383,6 +94390,7 @@ https://www.twitch.tv/shirianard
 https://www.twitch.tv/shiriantv
 https://www.twitch.tv/shiriko96
 https://www.twitch.tv/shirleytictac
+https://www.twitch.tv/shiro_098
 https://www.twitch.tv/shiro_jma
 https://www.twitch.tv/shiro_misutsawa
 https://www.twitch.tv/shiro_nanashino
