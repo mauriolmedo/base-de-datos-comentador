@@ -9863,6 +9863,7 @@ https://www.twitch.tv/bashano10
 https://www.twitch.tv/bashcoo
 https://www.twitch.tv/bashento
 https://www.twitch.tv/bashi_slayer
+https://www.twitch.tv/bashiitv
 https://www.twitch.tv/bashtekker
 https://www.twitch.tv/bashynmc
 https://www.twitch.tv/basic_bump
@@ -53356,6 +53357,7 @@ https://www.twitch.tv/keppajamecho
 https://www.twitch.tv/keps90s
 https://www.twitch.tv/keq_0x0
 https://www.twitch.tv/keqxo
+https://www.twitch.tv/ker0zenn
 https://www.twitch.tv/keravec
 https://www.twitch.tv/kerbdivision
 https://www.twitch.tv/kerberos80
@@ -62626,6 +62628,7 @@ https://www.twitch.tv/lucky_luke16372
 https://www.twitch.tv/lucky_luki95
 https://www.twitch.tv/lucky_night42
 https://www.twitch.tv/lucky_pain
+https://www.twitch.tv/lucky_strike_6
 https://www.twitch.tv/lucky_vibe
 https://www.twitch.tv/luckydime254
 https://www.twitch.tv/luckydragon1982
@@ -63150,6 +63153,7 @@ https://www.twitch.tv/luna040321
 https://www.twitch.tv/luna_194x
 https://www.twitch.tv/luna_blyte
 https://www.twitch.tv/luna_gamer_22
+https://www.twitch.tv/luna_kiuty_
 https://www.twitch.tv/luna_maruu
 https://www.twitch.tv/luna_omega_
 https://www.twitch.tv/luna_ori_2000
@@ -75174,6 +75178,7 @@ https://www.twitch.tv/nerexblue
 https://www.twitch.tv/nerf_fir3
 https://www.twitch.tv/nerfbongman
 https://www.twitch.tv/nerfear_el_mando
+https://www.twitch.tv/nerffah
 https://www.twitch.tv/nerfthistds
 https://www.twitch.tv/nerilys
 https://www.twitch.tv/nerimooon
@@ -94857,6 +94862,7 @@ https://www.twitch.tv/shironoha_ito
 https://www.twitch.tv/shiropath_
 https://www.twitch.tv/shirophy_
 https://www.twitch.tv/shiropoison
+https://www.twitch.tv/shiroro711
 https://www.twitch.tv/shiroshirokun0608
 https://www.twitch.tv/shirotokeen
 https://www.twitch.tv/shirou_dst
@@ -95529,6 +95535,7 @@ https://www.twitch.tv/simohayham28
 https://www.twitch.tv/simon050808
 https://www.twitch.tv/simon07mainerlof
 https://www.twitch.tv/simon606_
+https://www.twitch.tv/simon_8063
 https://www.twitch.tv/simon_le7
 https://www.twitch.tv/simon_luis
 https://www.twitch.tv/simon_magnolia
@@ -117715,6 +117722,7 @@ https://www.twitch.tv/yukiliciouslol
 https://www.twitch.tv/yukimelli
 https://www.twitch.tv/yukimiar
 https://www.twitch.tv/yukimpossible
+https://www.twitch.tv/yukinaakuma
 https://www.twitch.tv/yukinaetv
 https://www.twitch.tv/yukinashiro3375
 https://www.twitch.tv/yukinatsu25
