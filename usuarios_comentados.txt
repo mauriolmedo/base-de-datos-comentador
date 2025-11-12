@@ -7146,6 +7146,7 @@ https://www.twitch.tv/arknx
 https://www.twitch.tv/arkokoo_
 https://www.twitch.tv/arkonaut7
 https://www.twitch.tv/arktemist
+https://www.twitch.tv/arktiso
 https://www.twitch.tv/arktosttv
 https://www.twitch.tv/arkufc
 https://www.twitch.tv/arkuma
@@ -48784,6 +48785,7 @@ https://www.twitch.tv/jinorak
 https://www.twitch.tv/jinoratv
 https://www.twitch.tv/jinox_fr
 https://www.twitch.tv/jinqun_
+https://www.twitch.tv/jinritsu
 https://www.twitch.tv/jinrohxtv
 https://www.twitch.tv/jinsei108
 https://www.twitch.tv/jinseinishume
@@ -60703,6 +60705,7 @@ https://www.twitch.tv/lilykg_usao
 https://www.twitch.tv/lilym76
 https://www.twitch.tv/lilymoe
 https://www.twitch.tv/lilynia
+https://www.twitch.tv/lilyth_kamenashi
 https://www.twitch.tv/lilzhaxxx
 https://www.twitch.tv/lim17e
 https://www.twitch.tv/lim_974
@@ -61781,6 +61784,7 @@ https://www.twitch.tv/long_chicken1887
 https://www.twitch.tv/longaar
 https://www.twitch.tv/longbeardlogicgaming
 https://www.twitch.tv/longdonjohnson_
+https://www.twitch.tv/longepaisen
 https://www.twitch.tv/longgamer1m
 https://www.twitch.tv/longhaulpilot
 https://www.twitch.tv/longislandestus
@@ -75824,6 +75828,7 @@ https://www.twitch.tv/nexo223_yt
 https://www.twitch.tv/nexo744
 https://www.twitch.tv/nexo_934
 https://www.twitch.tv/nexo_o2
+https://www.twitch.tv/nexo_warzone
 https://www.twitch.tv/nexo_yt2301
 https://www.twitch.tv/nexodios4383
 https://www.twitch.tv/nexofr83
@@ -93182,6 +93187,7 @@ https://www.twitch.tv/schnuppidoc
 https://www.twitch.tv/schnurrbert68
 https://www.twitch.tv/schnyggo_
 https://www.twitch.tv/schnzy_4k
+https://www.twitch.tv/schobex
 https://www.twitch.tv/schocknorris
 https://www.twitch.tv/schokicchino
 https://www.twitch.tv/schokiecookie
@@ -119092,6 +119098,7 @@ https://www.twitch.tv/zartex_1324
 https://www.twitch.tv/zartsuke
 https://www.twitch.tv/zartukel_2
 https://www.twitch.tv/zarty_x
+https://www.twitch.tv/zarupaissafer
 https://www.twitch.tv/zarusch
 https://www.twitch.tv/zarvel0
 https://www.twitch.tv/zarwishh
@@ -120228,6 +120235,7 @@ https://www.twitch.tv/zohanjp
 https://www.twitch.tv/zoholaa
 https://www.twitch.tv/zoid350
 https://www.twitch.tv/zoilo88
+https://www.twitch.tv/zojiro_kioru
 https://www.twitch.tv/zok3n_
 https://www.twitch.tv/zoka26
 https://www.twitch.tv/zokaakoz
