@@ -5161,6 +5161,7 @@ https://www.twitch.tv/amartinez34
 https://www.twitch.tv/amarundesu
 https://www.twitch.tv/amaryil1s
 https://www.twitch.tv/amaryllis_mln
+https://www.twitch.tv/amaryllisdatura
 https://www.twitch.tv/amasabi_tetlive
 https://www.twitch.tv/amasaku_ch
 https://www.twitch.tv/amaso99
@@ -7167,6 +7168,7 @@ https://www.twitch.tv/arisedamonn
 https://www.twitch.tv/arisen_rhez
 https://www.twitch.tv/arisethedeaths
 https://www.twitch.tv/arisia_game
+https://www.twitch.tv/ariskm
 https://www.twitch.tv/arislive
 https://www.twitch.tv/arisrock
 https://www.twitch.tv/aristeque2
@@ -18843,6 +18845,7 @@ https://www.twitch.tv/comicookir
 https://www.twitch.tv/comicsans_art
 https://www.twitch.tv/comiczockt
 https://www.twitch.tv/comiinn4yah
+https://www.twitch.tv/comm4ndeer_cobr4
 https://www.twitch.tv/commandant__cody
 https://www.twitch.tv/commander30001
 https://www.twitch.tv/commander76live
@@ -26587,6 +26590,7 @@ https://www.twitch.tv/dragon_gunbe
 https://www.twitch.tv/dragon_j_kylo
 https://www.twitch.tv/dragon_nightmaree
 https://www.twitch.tv/dragon_players37
+https://www.twitch.tv/dragon_ragemax
 https://www.twitch.tv/dragon_sin_25
 https://www.twitch.tv/dragon_toxik23
 https://www.twitch.tv/dragon_warrioryuu
@@ -36645,6 +36649,7 @@ https://www.twitch.tv/fuzi1674
 https://www.twitch.tv/fuziileiro
 https://www.twitch.tv/fuzion117
 https://www.twitch.tv/fuzionodin752
+https://www.twitch.tv/fuzuki21
 https://www.twitch.tv/fuzzi_3004
 https://www.twitch.tv/fuzzlemuzzle10
 https://www.twitch.tv/fuzzstorm
@@ -36654,6 +36659,7 @@ https://www.twitch.tv/fuzzywindman
 https://www.twitch.tv/fvairiywings
 https://www.twitch.tv/fvbeta190
 https://www.twitch.tv/fvdeluxe
+https://www.twitch.tv/fvdowsky
 https://www.twitch.tv/fvjesus
 https://www.twitch.tv/fvjusaxd
 https://www.twitch.tv/fvresb69
@@ -58031,6 +58037,7 @@ https://www.twitch.tv/l4f0nn
 https://www.twitch.tv/l4guize
 https://www.twitch.tv/l4iker_
 https://www.twitch.tv/l4mmer01
+https://www.twitch.tv/l4nzerr
 https://www.twitch.tv/l4p1n87
 https://www.twitch.tv/l4r3t4
 https://www.twitch.tv/l4s0mbr4a
@@ -92490,6 +92497,7 @@ https://www.twitch.tv/s1tam
 https://www.twitch.tv/s1tham
 https://www.twitch.tv/s1wbo
 https://www.twitch.tv/s1xcfn
+https://www.twitch.tv/s24m4ne
 https://www.twitch.tv/s2_keo
 https://www.twitch.tv/s2_sakieru
 https://www.twitch.tv/s2f_b4stian
@@ -117630,6 +117638,7 @@ https://www.twitch.tv/xstievie
 https://www.twitch.tv/xstizox
 https://www.twitch.tv/xstonedhighflyx
 https://www.twitch.tv/xstormyy___
+https://www.twitch.tv/xstrongbadx
 https://www.twitch.tv/xsugacx
 https://www.twitch.tv/xsugarkittyx
 https://www.twitch.tv/xsuklaa
