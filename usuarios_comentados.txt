@@ -13450,6 +13450,7 @@ https://www.twitch.tv/brewer_404
 https://www.twitch.tv/brewside
 https://www.twitch.tv/brey_owo
 https://www.twitch.tv/breydy1
+https://www.twitch.tv/brezelbraut
 https://www.twitch.tv/brezilion
 https://www.twitch.tv/brf_thanox
 https://www.twitch.tv/brhulk04
@@ -17140,6 +17141,7 @@ https://www.twitch.tv/chikamichan
 https://www.twitch.tv/chikane131
 https://www.twitch.tv/chikase_sagara
 https://www.twitch.tv/chikataso_
+https://www.twitch.tv/chikatwitch_
 https://www.twitch.tv/chikensndwch
 https://www.twitch.tv/chiki389
 https://www.twitch.tv/chikida_dayo
@@ -34965,6 +34967,7 @@ https://www.twitch.tv/fnkzy_
 https://www.twitch.tv/fnluca_0
 https://www.twitch.tv/fnmarlon69
 https://www.twitch.tv/fnnatv
+https://www.twitch.tv/fnoci
 https://www.twitch.tv/fnpanda_01
 https://www.twitch.tv/fnpeetiit
 https://www.twitch.tv/fnquallen
@@ -57863,6 +57866,7 @@ https://www.twitch.tv/lacarpe___
 https://www.twitch.tv/lacartouche44
 https://www.twitch.tv/lacasaoscuratv
 https://www.twitch.tv/lacatastrophe3000
+https://www.twitch.tv/lacaveprime
 https://www.twitch.tv/laccrobate
 https://www.twitch.tv/lace_florian
 https://www.twitch.tv/lacered_rl2
@@ -88680,6 +88684,7 @@ https://www.twitch.tv/ren_fei
 https://www.twitch.tv/ren_humitsuki07
 https://www.twitch.tv/ren_mentalcounseling
 https://www.twitch.tv/ren_of_tribbles
+https://www.twitch.tv/ren_ry
 https://www.twitch.tv/rena7fox
 https://www.twitch.tv/rena872
 https://www.twitch.tv/rena_elite
@@ -110843,6 +110848,7 @@ https://www.twitch.tv/v3nom974
 https://www.twitch.tv/v3t3r4n_n00b_
 https://www.twitch.tv/v404k
 https://www.twitch.tv/v4ldron
+https://www.twitch.tv/v4ntarose
 https://www.twitch.tv/v4rl3xx
 https://www.twitch.tv/v4streaming
 https://www.twitch.tv/v4xsitalia
@@ -120269,6 +120275,7 @@ https://www.twitch.tv/zekugoat
 https://www.twitch.tv/zekymi
 https://www.twitch.tv/zekyy87
 https://www.twitch.tv/zelda_amk
+https://www.twitch.tv/zelda_freake1
 https://www.twitch.tv/zelda_gaming_tv
 https://www.twitch.tv/zelda_streamt
 https://www.twitch.tv/zeldackrp
