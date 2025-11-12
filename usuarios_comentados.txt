@@ -41679,6 +41679,7 @@ https://www.twitch.tv/herr_dr_salitos
 https://www.twitch.tv/herr_ehwed
 https://www.twitch.tv/herr_fichte
 https://www.twitch.tv/herr_paulfn
+https://www.twitch.tv/herr_pommbaer
 https://www.twitch.tv/herr_techniker_gaming
 https://www.twitch.tv/herr_ziggi
 https://www.twitch.tv/herrbaum
@@ -44423,6 +44424,7 @@ https://www.twitch.tv/imbackwoodstd
 https://www.twitch.tv/imbadgyal
 https://www.twitch.tv/imbadudderdude
 https://www.twitch.tv/imbanshee01
+https://www.twitch.tv/imbaumix
 https://www.twitch.tv/imben08
 https://www.twitch.tv/imbettertv
 https://www.twitch.tv/imbiber1029
@@ -85514,6 +85516,7 @@ https://www.twitch.tv/r1ckspython
 https://www.twitch.tv/r1d0000
 https://www.twitch.tv/r1flexz0ne
 https://www.twitch.tv/r1k_w31ss
+https://www.twitch.tv/r1kkun__
 https://www.twitch.tv/r1ky5
 https://www.twitch.tv/r1mi7
 https://www.twitch.tv/r1n3x_wz
@@ -99616,6 +99619,7 @@ https://www.twitch.tv/stevemcgarrett
 https://www.twitch.tv/steven020644300
 https://www.twitch.tv/steven243free
 https://www.twitch.tv/steven27363637373
+https://www.twitch.tv/steven35666
 https://www.twitch.tv/steven_170620
 https://www.twitch.tv/steven__1998
 https://www.twitch.tv/steven_belyle
@@ -105204,6 +105208,7 @@ https://www.twitch.tv/tifla01
 https://www.twitch.tv/tifouille_gribouille
 https://www.twitch.tv/tiga904
 https://www.twitch.tv/tigano37500
+https://www.twitch.tv/tigcne
 https://www.twitch.tv/tigela18
 https://www.twitch.tv/tiger14561
 https://www.twitch.tv/tiger59100
@@ -116075,6 +116080,7 @@ https://www.twitch.tv/xxnani26_chanxx
 https://www.twitch.tv/xxnascarxlegendsxx88
 https://www.twitch.tv/xxnecroborgxx
 https://www.twitch.tv/xxnemesisxx94
+https://www.twitch.tv/xxnemezxx
 https://www.twitch.tv/xxneopixelxx
 https://www.twitch.tv/xxnicoxx1314
 https://www.twitch.tv/xxnikolas17xx
@@ -117852,6 +117858,7 @@ https://www.twitch.tv/yukane3
 https://www.twitch.tv/yukaraai
 https://www.twitch.tv/yukardd
 https://www.twitch.tv/yukari66
+https://www.twitch.tv/yukari_is_myname
 https://www.twitch.tv/yukarin4
 https://www.twitch.tv/yukayuu1123
 https://www.twitch.tv/yukemuri02bi
