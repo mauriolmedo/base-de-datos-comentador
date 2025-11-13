@@ -14681,6 +14681,7 @@ https://www.twitch.tv/by_andi
 https://www.twitch.tv/by_benaim
 https://www.twitch.tv/by_berro
 https://www.twitch.tv/by_bester_cr
+https://www.twitch.tv/by_bluky
 https://www.twitch.tv/by_bruto_666
 https://www.twitch.tv/by_clapped_raul
 https://www.twitch.tv/by_crex
@@ -61381,6 +61382,7 @@ https://www.twitch.tv/lehirafael
 https://www.twitch.tv/lehmosore
 https://www.twitch.tv/lehookthreshiant
 https://www.twitch.tv/lehrosigal
+https://www.twitch.tv/lei_l2d
 https://www.twitch.tv/leia_hime972
 https://www.twitch.tv/leichenschau
 https://www.twitch.tv/leichtebeute30
@@ -88674,6 +88676,7 @@ https://www.twitch.tv/qc_mike31
 https://www.twitch.tv/qc_misterd
 https://www.twitch.tv/qc_psycho_killer
 https://www.twitch.tv/qc_represente
+https://www.twitch.tv/qc_ririi
 https://www.twitch.tv/qcbanditos
 https://www.twitch.tv/qcbeka
 https://www.twitch.tv/qchishiya_
@@ -119422,6 +119425,7 @@ https://www.twitch.tv/xgerman__ghostx
 https://www.twitch.tv/xgermanfighterx
 https://www.twitch.tv/xgermanx_gersqd
 https://www.twitch.tv/xgermarvin
+https://www.twitch.tv/xggbggetsomex1
 https://www.twitch.tv/xghideon
 https://www.twitch.tv/xghost48_
 https://www.twitch.tv/xghost97_
@@ -125319,6 +125323,7 @@ https://www.twitch.tv/zwergeedy
 https://www.twitch.tv/zwergenmeister2004
 https://www.twitch.tv/zwergi94
 https://www.twitch.tv/zwergicus
+https://www.twitch.tv/zwergimbikini
 https://www.twitch.tv/zwergl_94
 https://www.twitch.tv/zwergnase80
 https://www.twitch.tv/zwergpenguin
