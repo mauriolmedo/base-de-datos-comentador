@@ -5382,6 +5382,7 @@ https://www.twitch.tv/amnezrl
 https://www.twitch.tv/amoabii
 https://www.twitch.tv/amok_avatar
 https://www.twitch.tv/amokdi
+https://www.twitch.tv/amokoma
 https://www.twitch.tv/amokperu
 https://www.twitch.tv/amolina0
 https://www.twitch.tv/amolli_tv
@@ -12550,6 +12551,7 @@ https://www.twitch.tv/bloodykn8ght
 https://www.twitch.tv/bloodymantvz
 https://www.twitch.tv/bloodymarry_ttv
 https://www.twitch.tv/bloodyslayyyss
+https://www.twitch.tv/bloodythickets
 https://www.twitch.tv/bloodytv17
 https://www.twitch.tv/bloodytypical
 https://www.twitch.tv/bloodyvolt
@@ -57699,6 +57701,7 @@ https://www.twitch.tv/krzfl069
 https://www.twitch.tv/krzttv
 https://www.twitch.tv/ks_kygus
 https://www.twitch.tv/ks_nicolas1
+https://www.twitch.tv/ks_rookie
 https://www.twitch.tv/ksa_lockvogel
 https://www.twitch.tv/ksaw_goty
 https://www.twitch.tv/kscoo
@@ -69821,6 +69824,7 @@ https://www.twitch.tv/melcrak69
 https://www.twitch.tv/melekgames
 https://www.twitch.tv/melekkmachado
 https://www.twitch.tv/melendezoteros
+https://www.twitch.tv/melerhun
 https://www.twitch.tv/melerickk
 https://www.twitch.tv/meleyx
 https://www.twitch.tv/melf3005
@@ -78922,6 +78926,7 @@ https://www.twitch.tv/nochi563
 https://www.twitch.tv/nochitamama
 https://www.twitch.tv/nockfin
 https://www.twitch.tv/noclan_tv
+https://www.twitch.tv/noco_sisho
 https://www.twitch.tv/nocodefrance
 https://www.twitch.tv/noctal_42
 https://www.twitch.tv/noctalio
@@ -87863,6 +87868,7 @@ https://www.twitch.tv/r1okano
 https://www.twitch.tv/r1pek
 https://www.twitch.tv/r1studio
 https://www.twitch.tv/r1x99
+https://www.twitch.tv/r1zemerc
 https://www.twitch.tv/r2d2twitchtv
 https://www.twitch.tv/r2juli
 https://www.twitch.tv/r2v2ng2_
@@ -97873,6 +97879,7 @@ https://www.twitch.tv/shukkoh
 https://www.twitch.tv/shukun99
 https://www.twitch.tv/shulia
 https://www.twitch.tv/shun6734
+https://www.twitch.tv/shun_bzst
 https://www.twitch.tv/shun_ch_
 https://www.twitch.tv/shunaryu
 https://www.twitch.tv/shunchaaaan
@@ -98751,6 +98758,7 @@ https://www.twitch.tv/siuu_071
 https://www.twitch.tv/sivanation0394
 https://www.twitch.tv/sivasativa
 https://www.twitch.tv/sivi_san
+https://www.twitch.tv/sivora
 https://www.twitch.tv/siwen_7
 https://www.twitch.tv/siweth
 https://www.twitch.tv/siwixtv_
@@ -109878,6 +109886,7 @@ https://www.twitch.tv/toxinq_
 https://www.twitch.tv/toxinsuko
 https://www.twitch.tv/toxirexx
 https://www.twitch.tv/toxiz_ely
+https://www.twitch.tv/toxnipe
 https://www.twitch.tv/toxxic502
 https://www.twitch.tv/toxxikate
 https://www.twitch.tv/toxxin71
@@ -120430,6 +120439,7 @@ https://www.twitch.tv/yoansite
 https://www.twitch.tv/yoatr_
 https://www.twitch.tv/yobanashi_reyu_
 https://www.twitch.tv/yobberman
+https://www.twitch.tv/yobbo114
 https://www.twitch.tv/yobero
 https://www.twitch.tv/yobi_yc
 https://www.twitch.tv/yoblitzn
@@ -121226,6 +121236,7 @@ https://www.twitch.tv/yumenaka_610
 https://www.twitch.tv/yumene_anko
 https://www.twitch.tv/yumeno__yura
 https://www.twitch.tv/yumereves72
+https://www.twitch.tv/yumeyumefoget
 https://www.twitch.tv/yumeyumewo
 https://www.twitch.tv/yumezakisan
 https://www.twitch.tv/yumha25
