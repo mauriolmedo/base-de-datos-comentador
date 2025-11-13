@@ -43749,6 +43749,7 @@ https://www.twitch.tv/hirschkopf
 https://www.twitch.tv/hirschmaedchen
 https://www.twitch.tv/hiru92_
 https://www.twitch.tv/hiru_13cm
+https://www.twitch.tv/hiruandon_twitch
 https://www.twitch.tv/hiruma_92_
 https://www.twitch.tv/hirune_arcia
 https://www.twitch.tv/hisa_ku
@@ -70527,6 +70528,7 @@ https://www.twitch.tv/mein_melii
 https://www.twitch.tv/meinari_
 https://www.twitch.tv/meingarten1
 https://www.twitch.tv/meinhof_i936
+https://www.twitch.tv/meinlebeninungarn
 https://www.twitch.tv/meinloewee
 https://www.twitch.tv/meinnameistpaul_
 https://www.twitch.tv/meinpeacity_
@@ -80414,6 +80416,7 @@ https://www.twitch.tv/nothingbutcars
 https://www.twitch.tv/nothingokxy
 https://www.twitch.tv/nothvdro
 https://www.twitch.tv/nothy12
+https://www.twitch.tv/notice_me_dan
 https://www.twitch.tv/noticiasdel6
 https://www.twitch.tv/noticiassv
 https://www.twitch.tv/notiec
@@ -98715,6 +98718,7 @@ https://www.twitch.tv/shiro_jma
 https://www.twitch.tv/shiro_misutsawa
 https://www.twitch.tv/shiro_nanashino
 https://www.twitch.tv/shiro_nognl
+https://www.twitch.tv/shiro_shinju
 https://www.twitch.tv/shiro_ururi
 https://www.twitch.tv/shirobara517
 https://www.twitch.tv/shirod0la
@@ -112706,6 +112710,7 @@ https://www.twitch.tv/twitch_iizy
 https://www.twitch.tv/twitch_ikakun
 https://www.twitch.tv/twitch_ivan1012
 https://www.twitch.tv/twitch_javier387
+https://www.twitch.tv/twitch_jeyzen
 https://www.twitch.tv/twitch_juju97354
 https://www.twitch.tv/twitch_k3ng
 https://www.twitch.tv/twitch_kaly
@@ -118345,6 +118350,7 @@ https://www.twitch.tv/x_schlumpfi_x
 https://www.twitch.tv/x_semperfie
 https://www.twitch.tv/x_shinju
 https://www.twitch.tv/x_shurry_x
+https://www.twitch.tv/x_sille
 https://www.twitch.tv/x_skallig
 https://www.twitch.tv/x_skyzze_x
 https://www.twitch.tv/x_soulslike_x
